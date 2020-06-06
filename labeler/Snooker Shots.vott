@@ -1,0 +1,132 @@
+{
+    "name": "Snooker Shots",
+    "securityToken": "Snooker Shots Token",
+    "sourceConnection": {
+        "name": "Snooker Training Data",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTZkY2NmMDYzZDY5YWVkNzhkZTkxMWUzMmNkZTQzY2EyYjNmOTA2MWZiMzI1YzdmMGNmZmRjMzAwOTZjMDBhNzkyZWRjODdkMDVjOGIyMzQyOTFlOTY1ZDgyMzQwN2E0ZmI4MjA3NjliY2Y4N2VhNTY4YjRkZDI0NGQwZjk0ZTIwYTVjMDM5MDFlZDcyOTYxZGU2NjFhOWYxNzcwZWZiODEzZjdlNTM2MzY5ZTBhMDJiNTEyMmRhMzYxZDBhMWI1IiwiaXYiOiJhYTUxYzc4NTU5NjI5MjdhYWZkZmI1ZGQ2MWRiMWIyMTRmMGI3OTkzMmZhY2FjY2YifQ=="
+        },
+        "id": "2Wl2z6aU_"
+    },
+    "targetConnection": {
+        "name": "Snooker Output",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNmNiMTFjMmZkNmY5NTk4ZGE5YWU3ZDFhN2NhMTU0NzE5NjU4NzhhMzg2YThmZGY3N2VkYWVjODFmN2FkZjk4NDViODk2Mjg2MTNlM2NkMWE0NTY3NWZlOWY4NGIxNzI2MmEzNTZmNjYxMzZmOWZjZTA5MzlhNTllOTNkNjFkMWNmNTU2YWIwMTg3ZWZhNTliZGRlZjllMGRlZWM2ZTA2NSIsIml2IjoiOTBiYWJjZmY3MDA0MWM2NmEwNDZiMTIxM2I0Y2U5YzVjOGJiNTQxYmEwNmVkOTk2In0="
+        },
+        "id": "JNHMkudTD"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "black",
+            "color": "#808000"
+        },
+        {
+            "name": "blue",
+            "color": "#00FF00"
+        },
+        {
+            "name": "brown",
+            "color": "#008000"
+        },
+        {
+            "name": "green",
+            "color": "#00FFFF"
+        },
+        {
+            "name": "pink",
+            "color": "#008080"
+        },
+        {
+            "name": "red",
+            "color": "#0000FF"
+        },
+        {
+            "name": "white",
+            "color": "#000080"
+        },
+        {
+            "name": "yellow",
+            "color": "#FF00FF"
+        },
+        {
+            "name": "baseball glove",
+            "color": "#ddabe9"
+        },
+        {
+            "name": "Unknown",
+            "color": "#ddabe9"
+        }
+    ],
+    "id": "T7diMQ7W1",
+    "activeLearningSettings": {
+        "modelPathType": "coco",
+        "autoDetect": true,
+        "predictTag": true
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOWVjZjhjNzM0ZWNiMzIzODhjNTFiZjIzZjlmZWQwNjgyMGI3NTk5MWEwOTUxZTc4NGVkMDRkZTVlMzE0NTM3NDdhOWNlOWMzNjEwOWZkZmQ4OTNmNjg1OTU2ZTNjZDk5IiwiaXYiOiI2MGIyMThjOGE5MzI5MWJjM2QyOWI2ZTVjZjJiNzcyYzk3ODJjMjJmYTY0YTlhMmYifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "98296eb83e557d0b9b50b989d4eb93ab",
+    "assets": {
+        "f70d62801a7cd40c24dc008be7547c28": {
+            "format": "jpg",
+            "id": "f70d62801a7cd40c24dc008be7547c28",
+            "name": "0.jpg",
+            "path": "file:/Users/robert/Dropbox/Work/Repos/cv-snooker-analysis/training_data/video_export/0.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5d79021d489594679cc1b8a61399e5c8": {
+            "format": "jpg",
+            "id": "5d79021d489594679cc1b8a61399e5c8",
+            "name": "0.jpg",
+            "path": "file:/Users/robert/Dropbox/Work/Repos/cv-snooker-analysis/training_data/0.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "98296eb83e557d0b9b50b989d4eb93ab": {
+            "format": "jpg",
+            "id": "98296eb83e557d0b9b50b989d4eb93ab",
+            "name": "0812aa3b644bf7080f128a29ce20d23c7aec726a.jpg",
+            "path": "file:/Users/robert/Dropbox/Work/Repos/cv-snooker-analysis/training_data/0812aa3b644bf7080f128a29ce20d23c7aec726a.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1,
+            "predicted": true
+        },
+        "7a9be04479910bf2208fd85db663b033": {
+            "format": "jpg",
+            "id": "7a9be04479910bf2208fd85db663b033",
+            "name": "1.jpg",
+            "path": "file:/Users/robert/Dropbox/Work/Repos/cv-snooker-analysis/training_data/1.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1,
+            "predicted": true
+        }
+    }
+}
