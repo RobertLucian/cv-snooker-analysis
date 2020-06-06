@@ -36,22 +36,6 @@
         {
             "name": "yellow",
             "color": "#FF00FF"
-        },
-        {
-            "name": "baseball glove",
-            "color": "#ddabe9"
-        },
-        {
-            "name": "Unknown",
-            "color": "#ddabe9"
-        },
-        {
-            "name": "snowboard",
-            "color": "#ff8c00"
-        },
-        {
-            "name": "sink",
-            "color": "#386300"
         }
     ],
     "id": "T7diMQ7W1",
@@ -61,8 +45,1144 @@
         "predictTag": true
     },
     "version": "2.2.0",
-    "lastVisitedAssetId": "e94a667cd99d0eae07bfa2be833b1acf",
+    "lastVisitedAssetId": "a9f3529e8d34ae42fb98cd4cb5829d98",
     "assets": {
+        "a9f3529e8d34ae42fb98cd4cb5829d98": {
+            "asset": {
+                "format": "jpg",
+                "id": "a9f3529e8d34ae42fb98cd4cb5829d98",
+                "name": "143.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/143.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 2,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [
+                {
+                    "id": "Fd-s4jyeQ1",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Unknown"
+                    ],
+                    "boundingBox": {
+                        "left": 659.8053741455078,
+                        "top": 95.14520645141602,
+                        "width": 179.41558837890625,
+                        "height": 227.8817653656006
+                    },
+                    "points": [
+                        {
+                            "x": 659.8053741455078,
+                            "y": 95.14520645141602
+                        },
+                        {
+                            "x": 839.2209625244141,
+                            "y": 95.14520645141602
+                        },
+                        {
+                            "x": 839.2209625244141,
+                            "y": 323.0269718170166
+                        },
+                        {
+                            "x": 659.8053741455078,
+                            "y": 323.0269718170166
+                        }
+                    ]
+                },
+                {
+                    "id": "qCrBJO2CsY",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Unknown"
+                    ],
+                    "boundingBox": {
+                        "left": 142.4964141845703,
+                        "top": 43.57005000114441,
+                        "width": 212.33745574951172,
+                        "height": 232.7301800251007
+                    },
+                    "points": [
+                        {
+                            "x": 142.4964141845703,
+                            "y": 43.57005000114441
+                        },
+                        {
+                            "x": 354.83386993408203,
+                            "y": 43.57005000114441
+                        },
+                        {
+                            "x": 354.83386993408203,
+                            "y": 276.3002300262451
+                        },
+                        {
+                            "x": 142.4964141845703,
+                            "y": 276.3002300262451
+                        }
+                    ]
+                },
+                {
+                    "id": "I-9fmqwPrN",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "baseball glove"
+                    ],
+                    "boundingBox": {
+                        "left": 79.35148239135742,
+                        "top": 309.51138496398926,
+                        "width": 32.62052536010742,
+                        "height": 20.9159517288208
+                    },
+                    "points": [
+                        {
+                            "x": 79.35148239135742,
+                            "y": 309.51138496398926
+                        },
+                        {
+                            "x": 111.97200775146484,
+                            "y": 309.51138496398926
+                        },
+                        {
+                            "x": 111.97200775146484,
+                            "y": 330.42733669281006
+                        },
+                        {
+                            "x": 79.35148239135742,
+                            "y": 330.42733669281006
+                        }
+                    ]
+                },
+                {
+                    "id": "-xuKdDVVG0",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "baseball glove"
+                    ],
+                    "boundingBox": {
+                        "left": 499.27181243896484,
+                        "top": 403.50770473480225,
+                        "width": 46.94465637207031,
+                        "height": 49.62078094482422
+                    },
+                    "points": [
+                        {
+                            "x": 499.27181243896484,
+                            "y": 403.50770473480225
+                        },
+                        {
+                            "x": 546.2164688110352,
+                            "y": 403.50770473480225
+                        },
+                        {
+                            "x": 546.2164688110352,
+                            "y": 453.12848567962646
+                        },
+                        {
+                            "x": 499.27181243896484,
+                            "y": 453.12848567962646
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "bab6bfb00c4b3cd058d56f04f50874db": {
+            "asset": {
+                "format": "jpg",
+                "id": "bab6bfb00c4b3cd058d56f04f50874db",
+                "name": "579.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/579.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "901b6b3dd91e679054eb151802a83951": {
+            "asset": {
+                "format": "jpg",
+                "id": "901b6b3dd91e679054eb151802a83951",
+                "name": "59.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/59.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 2,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [
+                {
+                    "id": "eEYb0EEff8",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "white"
+                    ],
+                    "boundingBox": {
+                        "left": 523.4856414794922,
+                        "top": 180.43434619903564,
+                        "width": 178.0957794189453,
+                        "height": 174.95843410491943
+                    },
+                    "points": [
+                        {
+                            "x": 523.4856414794922,
+                            "y": 180.43434619903564
+                        },
+                        {
+                            "x": 701.5814208984375,
+                            "y": 180.43434619903564
+                        },
+                        {
+                            "x": 701.5814208984375,
+                            "y": 355.3927803039551
+                        },
+                        {
+                            "x": 523.4856414794922,
+                            "y": 355.3927803039551
+                        }
+                    ]
+                },
+                {
+                    "id": "FjRXR2-ryg",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "blue"
+                    ],
+                    "boundingBox": {
+                        "left": 441.9026565551758,
+                        "top": 364.4706630706787,
+                        "width": 168.93234252929688,
+                        "height": 179.61419105529785
+                    },
+                    "points": [
+                        {
+                            "x": 441.9026565551758,
+                            "y": 364.4706630706787
+                        },
+                        {
+                            "x": 610.8349990844727,
+                            "y": 364.4706630706787
+                        },
+                        {
+                            "x": 610.8349990844727,
+                            "y": 544.0848541259766
+                        },
+                        {
+                            "x": 441.9026565551758,
+                            "y": 544.0848541259766
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "2a0d53af9ddb7c07dcdbdb43a2d7c64e": {
+            "asset": {
+                "format": "jpg",
+                "id": "2a0d53af9ddb7c07dcdbdb43a2d7c64e",
+                "name": "60.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/60.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "d787a3ecfb5836c2e11fe05791eddaeb": {
+            "asset": {
+                "format": "jpg",
+                "id": "d787a3ecfb5836c2e11fe05791eddaeb",
+                "name": "679.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/679.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "648cb0057ac8cb9b5b8977a3c97c6139": {
+            "asset": {
+                "format": "jpg",
+                "id": "648cb0057ac8cb9b5b8977a3c97c6139",
+                "name": "688.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/688.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "6bd92da2f082a061c26923623e6611fb": {
+            "asset": {
+                "format": "jpg",
+                "id": "6bd92da2f082a061c26923623e6611fb",
+                "name": "693.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/693.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 2,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [
+                {
+                    "id": "pzS6CXCmOd",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Unknown"
+                    ],
+                    "boundingBox": {
+                        "left": 1076.8785095214844,
+                        "top": 425.9710121154785,
+                        "width": 192.85308837890625,
+                        "height": 301.8424987792969
+                    },
+                    "points": [
+                        {
+                            "x": 1076.8785095214844,
+                            "y": 425.9710121154785
+                        },
+                        {
+                            "x": 1269.7315979003906,
+                            "y": 425.9710121154785
+                        },
+                        {
+                            "x": 1269.7315979003906,
+                            "y": 727.8135108947754
+                        },
+                        {
+                            "x": 1076.8785095214844,
+                            "y": 727.8135108947754
+                        }
+                    ]
+                },
+                {
+                    "id": "e5AeJjKJ7",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "pink"
+                    ],
+                    "boundingBox": {
+                        "height": 24.705882352941174,
+                        "width": 23.818056512749827,
+                        "left": 344.03859407305305,
+                        "top": 461.5533088235294
+                    },
+                    "points": [
+                        {
+                            "x": 344.03859407305305,
+                            "y": 461.5533088235294
+                        },
+                        {
+                            "x": 367.8566505858029,
+                            "y": 461.5533088235294
+                        },
+                        {
+                            "x": 367.8566505858029,
+                            "y": 486.25919117647055
+                        },
+                        {
+                            "x": 344.03859407305305,
+                            "y": 486.25919117647055
+                        }
+                    ]
+                },
+                {
+                    "id": "8EsZb9q1c",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "blue"
+                    ],
+                    "boundingBox": {
+                        "height": 21.176470588235293,
+                        "width": 15.878704341833219,
+                        "left": 628.0909717436251,
+                        "top": 285.0827205882353
+                    },
+                    "points": [
+                        {
+                            "x": 628.0909717436251,
+                            "y": 285.0827205882353
+                        },
+                        {
+                            "x": 643.9696760854583,
+                            "y": 285.0827205882353
+                        },
+                        {
+                            "x": 643.9696760854583,
+                            "y": 306.25919117647055
+                        },
+                        {
+                            "x": 628.0909717436251,
+                            "y": 306.25919117647055
+                        }
+                    ]
+                },
+                {
+                    "id": "ph7THkh1a",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "green"
+                    ],
+                    "boundingBox": {
+                        "height": 15.882352941176471,
+                        "width": 15.878704341833219,
+                        "left": 741.0062026188835,
+                        "top": 136.84742647058823
+                    },
+                    "points": [
+                        {
+                            "x": 741.0062026188835,
+                            "y": 136.84742647058823
+                        },
+                        {
+                            "x": 756.8849069607168,
+                            "y": 136.84742647058823
+                        },
+                        {
+                            "x": 756.8849069607168,
+                            "y": 152.7297794117647
+                        },
+                        {
+                            "x": 741.0062026188835,
+                            "y": 152.7297794117647
+                        }
+                    ]
+                },
+                {
+                    "id": "kT9belKkG",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "black"
+                    ],
+                    "boundingBox": {
+                        "height": 24.705882352941174,
+                        "width": 21.17160578911096,
+                        "left": 626.3266712611992,
+                        "top": 535.6709558823529
+                    },
+                    "points": [
+                        {
+                            "x": 626.3266712611992,
+                            "y": 535.6709558823529
+                        },
+                        {
+                            "x": 647.4982770503101,
+                            "y": 535.6709558823529
+                        },
+                        {
+                            "x": 647.4982770503101,
+                            "y": 560.3768382352941
+                        },
+                        {
+                            "x": 626.3266712611992,
+                            "y": 560.3768382352941
+                        }
+                    ]
+                },
+                {
+                    "id": "WKKvaJVb_",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "brown"
+                    ],
+                    "boundingBox": {
+                        "height": 12.352941176470587,
+                        "width": 20.289455547898,
+                        "left": 628.0909717436251,
+                        "top": 135.96507352941177
+                    },
+                    "points": [
+                        {
+                            "x": 628.0909717436251,
+                            "y": 135.96507352941177
+                        },
+                        {
+                            "x": 648.3804272915231,
+                            "y": 135.96507352941177
+                        },
+                        {
+                            "x": 648.3804272915231,
+                            "y": 148.31801470588235
+                        },
+                        {
+                            "x": 628.0909717436251,
+                            "y": 148.31801470588235
+                        }
+                    ]
+                },
+                {
+                    "id": "obxib-wIr",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "yellow"
+                    ],
+                    "boundingBox": {
+                        "height": 12.352941176470587,
+                        "width": 17.643004824259133,
+                        "left": 561.9297036526533,
+                        "top": 124.49448529411764
+                    },
+                    "points": [
+                        {
+                            "x": 561.9297036526533,
+                            "y": 124.49448529411764
+                        },
+                        {
+                            "x": 579.5727084769125,
+                            "y": 124.49448529411764
+                        },
+                        {
+                            "x": 579.5727084769125,
+                            "y": 136.84742647058823
+                        },
+                        {
+                            "x": 561.9297036526533,
+                            "y": 136.84742647058823
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "6100405eb73589acabc220ef40cb30cd": {
+            "asset": {
+                "format": "jpg",
+                "id": "6100405eb73589acabc220ef40cb30cd",
+                "name": "710.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/710.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 2,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [
+                {
+                    "id": "_9hQIkBJE",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "black"
+                    ],
+                    "boundingBox": {
+                        "height": 18.52941176470588,
+                        "width": 15.878704341833219,
+                        "left": 434.9000689179876,
+                        "top": 323.90625
+                    },
+                    "points": [
+                        {
+                            "x": 434.9000689179876,
+                            "y": 323.90625
+                        },
+                        {
+                            "x": 450.7787732598208,
+                            "y": 323.90625
+                        },
+                        {
+                            "x": 450.7787732598208,
+                            "y": 342.43566176470586
+                        },
+                        {
+                            "x": 434.9000689179876,
+                            "y": 342.43566176470586
+                        }
+                    ]
+                },
+                {
+                    "id": "qqATQeVuY",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "pink"
+                    ],
+                    "boundingBox": {
+                        "height": 20.376838235294116,
+                        "width": 20.289455547898,
+                        "left": 853.921433494142,
+                        "top": 486.1764705882353
+                    },
+                    "points": [
+                        {
+                            "x": 853.921433494142,
+                            "y": 486.1764705882353
+                        },
+                        {
+                            "x": 874.21088904204,
+                            "y": 486.1764705882353
+                        },
+                        {
+                            "x": 874.21088904204,
+                            "y": 506.5533088235294
+                        },
+                        {
+                            "x": 853.921433494142,
+                            "y": 506.5533088235294
+                        }
+                    ]
+                },
+                {
+                    "id": "G1bD9V6ww",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "white"
+                    ],
+                    "boundingBox": {
+                        "height": 15.882352941176471,
+                        "width": 20.289455547898,
+                        "left": 364.32804962095105,
+                        "top": 402.43566176470586
+                    },
+                    "points": [
+                        {
+                            "x": 364.32804962095105,
+                            "y": 402.43566176470586
+                        },
+                        {
+                            "x": 384.61750516884905,
+                            "y": 402.43566176470586
+                        },
+                        {
+                            "x": 384.61750516884905,
+                            "y": 418.3180147058823
+                        },
+                        {
+                            "x": 364.32804962095105,
+                            "y": 418.3180147058823
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "727b2d8cea008b4b446246a20e4a59ab": {
+            "asset": {
+                "format": "jpg",
+                "id": "727b2d8cea008b4b446246a20e4a59ab",
+                "name": "711.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/711.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 2,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [
+                {
+                    "id": "Rml7jllvu",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "black"
+                    ],
+                    "boundingBox": {
+                        "height": 15.882352941176471,
+                        "width": 14.114403859407306,
+                        "left": 435.78221915920057,
+                        "top": 323.90625
+                    },
+                    "points": [
+                        {
+                            "x": 435.78221915920057,
+                            "y": 323.90625
+                        },
+                        {
+                            "x": 449.89662301860784,
+                            "y": 323.90625
+                        },
+                        {
+                            "x": 449.89662301860784,
+                            "y": 339.78860294117646
+                        },
+                        {
+                            "x": 435.78221915920057,
+                            "y": 339.78860294117646
+                        }
+                    ]
+                },
+                {
+                    "id": "yjAg6mRGm",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "white"
+                    ],
+                    "boundingBox": {
+                        "height": 16.764705882352942,
+                        "width": 16.760854583046175,
+                        "left": 367.8566505858029,
+                        "top": 402.43566176470586
+                    },
+                    "points": [
+                        {
+                            "x": 367.8566505858029,
+                            "y": 402.43566176470586
+                        },
+                        {
+                            "x": 384.61750516884905,
+                            "y": 402.43566176470586
+                        },
+                        {
+                            "x": 384.61750516884905,
+                            "y": 419.2003676470588
+                        },
+                        {
+                            "x": 367.8566505858029,
+                            "y": 419.2003676470588
+                        }
+                    ]
+                },
+                {
+                    "id": "6laNNVLAm",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "pink"
+                    ],
+                    "boundingBox": {
+                        "height": 17.647058823529413,
+                        "width": 19.407305306685046,
+                        "left": 853.0392832529291,
+                        "top": 487.1415441176471
+                    },
+                    "points": [
+                        {
+                            "x": 853.0392832529291,
+                            "y": 487.1415441176471
+                        },
+                        {
+                            "x": 872.446588559614,
+                            "y": 487.1415441176471
+                        },
+                        {
+                            "x": 872.446588559614,
+                            "y": 504.78860294117646
+                        },
+                        {
+                            "x": 853.0392832529291,
+                            "y": 504.78860294117646
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "eb00b4ae040454b1ffce31bf856a0c65": {
+            "asset": {
+                "format": "jpg",
+                "id": "eb00b4ae040454b1ffce31bf856a0c65",
+                "name": "728.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/728.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "d488ab5c86a1edbeb048cd2199bac8ee": {
+            "asset": {
+                "format": "jpg",
+                "id": "d488ab5c86a1edbeb048cd2199bac8ee",
+                "name": "734.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/734.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "9ae2b9ff3b26fae6114e808a731be2ef": {
+            "asset": {
+                "format": "jpg",
+                "id": "9ae2b9ff3b26fae6114e808a731be2ef",
+                "name": "744.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/744.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "0aea3e8ef4ab3303aa635fe8e3a3d320": {
+            "asset": {
+                "format": "jpg",
+                "id": "0aea3e8ef4ab3303aa635fe8e3a3d320",
+                "name": "81.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/81.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "5caea5bedcfacfd4d8b3fd0e31a4c94f": {
+            "asset": {
+                "format": "jpg",
+                "id": "5caea5bedcfacfd4d8b3fd0e31a4c94f",
+                "name": "842c5ae1853eb90164137fb32dff590fbfd3f8cf.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/842c5ae1853eb90164137fb32dff590fbfd3f8cf.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "562d130f48d136488168b500b6a17e3a": {
+            "asset": {
+                "format": "jpg",
+                "id": "562d130f48d136488168b500b6a17e3a",
+                "name": "85.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/85.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "26739c751f5017bc8f1dca162573addf": {
+            "asset": {
+                "format": "jpg",
+                "id": "26739c751f5017bc8f1dca162573addf",
+                "name": "86.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/86.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "9a42c5ab301f955076a484b5770e7ac4": {
+            "asset": {
+                "format": "jpg",
+                "id": "9a42c5ab301f955076a484b5770e7ac4",
+                "name": "949b6276cbafb4c67f3fcda4e665f219d8f11e93.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/949b6276cbafb4c67f3fcda4e665f219d8f11e93.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "ff3df798bc8796d9ce61a2fac6b3946d": {
+            "asset": {
+                "format": "jpg",
+                "id": "ff3df798bc8796d9ce61a2fac6b3946d",
+                "name": "94.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/94.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 2,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [
+                {
+                    "id": "23TJN1e4XQ",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "yellow"
+                    ],
+                    "boundingBox": {
+                        "left": 590.9085464477539,
+                        "top": 268.3536171913147,
+                        "width": 91.02291107177734,
+                        "height": 83.1688642501831
+                    },
+                    "points": [
+                        {
+                            "x": 590.9085464477539,
+                            "y": 268.3536171913147
+                        },
+                        {
+                            "x": 681.9314575195312,
+                            "y": 268.3536171913147
+                        },
+                        {
+                            "x": 681.9314575195312,
+                            "y": 351.5224814414978
+                        },
+                        {
+                            "x": 590.9085464477539,
+                            "y": 351.5224814414978
+                        }
+                    ]
+                },
+                {
+                    "id": "4A7Vvw092p",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "blue"
+                    ],
+                    "boundingBox": {
+                        "left": 1070.4874420166016,
+                        "top": 284.0521574020386,
+                        "width": 84.48654174804688,
+                        "height": 85.23510932922363
+                    },
+                    "points": [
+                        {
+                            "x": 1070.4874420166016,
+                            "y": 284.0521574020386
+                        },
+                        {
+                            "x": 1154.9739837646484,
+                            "y": 284.0521574020386
+                        },
+                        {
+                            "x": 1154.9739837646484,
+                            "y": 369.2872667312622
+                        },
+                        {
+                            "x": 1070.4874420166016,
+                            "y": 369.2872667312622
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "d316ab57bb1ba8c93b034737d9585aac": {
+            "asset": {
+                "format": "jpg",
+                "id": "d316ab57bb1ba8c93b034737d9585aac",
+                "name": "93.jpg",
+                "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/93.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 2,
+                "type": 1,
+                "predicted": true
+            },
+            "regions": [
+                {
+                    "id": "59kTa57lut",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "white"
+                    ],
+                    "boundingBox": {
+                        "left": 176.00910186767578,
+                        "top": 378.696026802063,
+                        "width": 95.5056381225586,
+                        "height": 99.23246383666992
+                    },
+                    "points": [
+                        {
+                            "x": 176.00910186767578,
+                            "y": 378.696026802063
+                        },
+                        {
+                            "x": 271.5147399902344,
+                            "y": 378.696026802063
+                        },
+                        {
+                            "x": 271.5147399902344,
+                            "y": 477.9284906387329
+                        },
+                        {
+                            "x": 176.00910186767578,
+                            "y": 477.9284906387329
+                        }
+                    ]
+                },
+                {
+                    "id": "aJnDRJXfRc",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "yellow"
+                    ],
+                    "boundingBox": {
+                        "left": 378.3705139160156,
+                        "top": 345.9424352645874,
+                        "width": 95.56198120117188,
+                        "height": 97.41474151611328
+                    },
+                    "points": [
+                        {
+                            "x": 378.3705139160156,
+                            "y": 345.9424352645874
+                        },
+                        {
+                            "x": 473.9324951171875,
+                            "y": 345.9424352645874
+                        },
+                        {
+                            "x": 473.9324951171875,
+                            "y": 443.3571767807007
+                        },
+                        {
+                            "x": 378.3705139160156,
+                            "y": 443.3571767807007
+                        }
+                    ]
+                },
+                {
+                    "id": "quSWAf2s0F",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Unknown"
+                    ],
+                    "boundingBox": {
+                        "left": 624.0470504760742,
+                        "top": 1.3402676582336426,
+                        "width": 459.65152740478516,
+                        "height": 200.4580020904541
+                    },
+                    "points": [
+                        {
+                            "x": 624.0470504760742,
+                            "y": 1.3402676582336426
+                        },
+                        {
+                            "x": 1083.6985778808594,
+                            "y": 1.3402676582336426
+                        },
+                        {
+                            "x": 1083.6985778808594,
+                            "y": 201.79826974868774
+                        },
+                        {
+                            "x": 624.0470504760742,
+                            "y": 201.79826974868774
+                        }
+                    ]
+                },
+                {
+                    "id": "1kvWNzP8uk",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "blue"
+                    ],
+                    "boundingBox": {
+                        "left": 1082.743911743164,
+                        "top": 283.36849451065063,
+                        "width": 87.25799560546875,
+                        "height": 87.76915311813354
+                    },
+                    "points": [
+                        {
+                            "x": 1082.743911743164,
+                            "y": 283.36849451065063
+                        },
+                        {
+                            "x": 1170.0019073486328,
+                            "y": 283.36849451065063
+                        },
+                        {
+                            "x": 1170.0019073486328,
+                            "y": 371.1376476287842
+                        },
+                        {
+                            "x": 1082.743911743164,
+                            "y": 371.1376476287842
+                        }
+                    ]
+                },
+                {
+                    "id": "r_6bhMXpJ-",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "brown"
+                    ],
+                    "boundingBox": {
+                        "height": 89.29397821426392,
+                        "width": 86.08261108398438,
+                        "left": 741.3693207333944,
+                        "top": 312.922076477724
+                    },
+                    "points": [
+                        {
+                            "x": 741.3693207333944,
+                            "y": 312.922076477724
+                        },
+                        {
+                            "x": 827.4519318173787,
+                            "y": 312.922076477724
+                        },
+                        {
+                            "x": 827.4519318173787,
+                            "y": 402.2160546919879
+                        },
+                        {
+                            "x": 741.3693207333944,
+                            "y": 402.2160546919879
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
         "ba877b394bcad50fad2634e7a3679d6d": {
             "asset": {
                 "format": "jpg",
@@ -745,11 +1865,105 @@
                     "width": 1280,
                     "height": 720
                 },
-                "state": 1,
+                "state": 2,
                 "type": 1,
                 "predicted": true
             },
-            "regions": [],
+            "regions": [
+                {
+                    "id": "qk4NfbHUf4",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Unknown"
+                    ],
+                    "boundingBox": {
+                        "left": 1053.016357421875,
+                        "top": 199.60741996765137,
+                        "width": 201.8096923828125,
+                        "height": 226.44461631774902
+                    },
+                    "points": [
+                        {
+                            "x": 1053.016357421875,
+                            "y": 199.60741996765137
+                        },
+                        {
+                            "x": 1254.8260498046875,
+                            "y": 199.60741996765137
+                        },
+                        {
+                            "x": 1254.8260498046875,
+                            "y": 426.0520362854004
+                        },
+                        {
+                            "x": 1053.016357421875,
+                            "y": 426.0520362854004
+                        }
+                    ]
+                },
+                {
+                    "id": "I2xEBbf39K",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "yellow"
+                    ],
+                    "boundingBox": {
+                        "height": 23.978217349332922,
+                        "width": 29.79522705078125,
+                        "left": 530.8161163330078,
+                        "top": 433.2352941176471
+                    },
+                    "points": [
+                        {
+                            "x": 530.8161163330078,
+                            "y": 433.2352941176471
+                        },
+                        {
+                            "x": 560.6113433837891,
+                            "y": 433.2352941176471
+                        },
+                        {
+                            "x": 560.6113433837891,
+                            "y": 457.21351146698
+                        },
+                        {
+                            "x": 530.8161163330078,
+                            "y": 457.21351146698
+                        }
+                    ]
+                },
+                {
+                    "id": "QIt2TexuMg",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "white"
+                    ],
+                    "boundingBox": {
+                        "left": 230.67102432250977,
+                        "top": 487.8754949569702,
+                        "width": 50.597991943359375,
+                        "height": 44.099979400634766
+                    },
+                    "points": [
+                        {
+                            "x": 230.67102432250977,
+                            "y": 487.8754949569702
+                        },
+                        {
+                            "x": 281.26901626586914,
+                            "y": 487.8754949569702
+                        },
+                        {
+                            "x": 281.26901626586914,
+                            "y": 531.975474357605
+                        },
+                        {
+                            "x": 230.67102432250977,
+                            "y": 531.975474357605
+                        }
+                    ]
+                }
+            ],
             "version": "2.2.0"
         },
         "6f22c71e5dbd97c41b74464af1d47745": {
@@ -762,11 +1976,74 @@
                     "width": 1280,
                     "height": 720
                 },
-                "state": 1,
+                "state": 2,
                 "type": 1,
                 "predicted": true
             },
-            "regions": [],
+            "regions": [
+                {
+                    "id": "spjmOT35Q",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Unknown"
+                    ],
+                    "boundingBox": {
+                        "left": 993.6537170410156,
+                        "top": 197.97180891036987,
+                        "width": 163.42864990234375,
+                        "height": 194.6799874305725
+                    },
+                    "points": [
+                        {
+                            "x": 993.6537170410156,
+                            "y": 197.97180891036987
+                        },
+                        {
+                            "x": 1157.0823669433594,
+                            "y": 197.97180891036987
+                        },
+                        {
+                            "x": 1157.0823669433594,
+                            "y": 392.6517963409424
+                        },
+                        {
+                            "x": 993.6537170410156,
+                            "y": 392.6517963409424
+                        }
+                    ]
+                },
+                {
+                    "id": "GY4wBEq1oI",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "white"
+                    ],
+                    "boundingBox": {
+                        "left": 284.7637939453125,
+                        "top": 481.41252994537354,
+                        "width": 50.97309112548828,
+                        "height": 53.56435775756836
+                    },
+                    "points": [
+                        {
+                            "x": 284.7637939453125,
+                            "y": 481.41252994537354
+                        },
+                        {
+                            "x": 335.7368850708008,
+                            "y": 481.41252994537354
+                        },
+                        {
+                            "x": 335.7368850708008,
+                            "y": 534.9768877029419
+                        },
+                        {
+                            "x": 284.7637939453125,
+                            "y": 534.9768877029419
+                        }
+                    ]
+                }
+            ],
             "version": "2.2.0"
         },
         "2723b87843614d78d3c16c8dbed02e10": {
@@ -779,11 +2056,260 @@
                     "width": 1280,
                     "height": 720
                 },
-                "state": 1,
+                "state": 2,
                 "type": 1,
                 "predicted": true
             },
-            "regions": [],
+            "regions": [
+                {
+                    "id": "RhkPUpLZw",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Unknown"
+                    ],
+                    "boundingBox": {
+                        "left": 986.4473724365234,
+                        "top": 170.82571864128113,
+                        "width": 135.66513061523438,
+                        "height": 191.26893639564514
+                    },
+                    "points": [
+                        {
+                            "x": 986.4473724365234,
+                            "y": 170.82571864128113
+                        },
+                        {
+                            "x": 1122.1125030517578,
+                            "y": 170.82571864128113
+                        },
+                        {
+                            "x": 1122.1125030517578,
+                            "y": 362.09465503692627
+                        },
+                        {
+                            "x": 986.4473724365234,
+                            "y": 362.09465503692627
+                        }
+                    ]
+                },
+                {
+                    "id": "kTn-LMzL7Q",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "white"
+                    ],
+                    "boundingBox": {
+                        "height": 51.27384466283461,
+                        "width": 52.929014472777396,
+                        "left": 383.73535492763614,
+                        "top": 501.1764705882353
+                    },
+                    "points": [
+                        {
+                            "x": 383.73535492763614,
+                            "y": 501.1764705882353
+                        },
+                        {
+                            "x": 436.66436940041353,
+                            "y": 501.1764705882353
+                        },
+                        {
+                            "x": 436.66436940041353,
+                            "y": 552.4503152510699
+                        },
+                        {
+                            "x": 383.73535492763614,
+                            "y": 552.4503152510699
+                        }
+                    ]
+                },
+                {
+                    "id": "M-PhVdNj4",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "blue"
+                    ],
+                    "boundingBox": {
+                        "height": 29.11764705882363,
+                        "width": 25.58235699517574,
+                        "left": 777.1743625086146,
+                        "top": 410.2941176470587
+                    },
+                    "points": [
+                        {
+                            "x": 777.1743625086146,
+                            "y": 410.2941176470587
+                        },
+                        {
+                            "x": 802.7567195037904,
+                            "y": 410.2941176470587
+                        },
+                        {
+                            "x": 802.7567195037904,
+                            "y": 439.4117647058823
+                        },
+                        {
+                            "x": 777.1743625086146,
+                            "y": 439.4117647058823
+                        }
+                    ]
+                },
+                {
+                    "id": "vjcr43AJ8",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "green"
+                    ],
+                    "boundingBox": {
+                        "height": 25.670955882352942,
+                        "width": 25.58235699517574,
+                        "left": 768.6492074431426,
+                        "top": 366.470588235294
+                    },
+                    "points": [
+                        {
+                            "x": 768.6492074431426,
+                            "y": 366.470588235294
+                        },
+                        {
+                            "x": 794.2315644383183,
+                            "y": 366.470588235294
+                        },
+                        {
+                            "x": 794.2315644383183,
+                            "y": 392.141544117647
+                        },
+                        {
+                            "x": 768.6492074431426,
+                            "y": 392.141544117647
+                        }
+                    ]
+                },
+                {
+                    "id": "b_flCHLAo",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "brown"
+                    ],
+                    "boundingBox": {
+                        "height": 25.670955882352942,
+                        "width": 25.58235699517574,
+                        "left": 633.6802205375602,
+                        "top": 369.1176470588234
+                    },
+                    "points": [
+                        {
+                            "x": 633.6802205375602,
+                            "y": 369.1176470588234
+                        },
+                        {
+                            "x": 659.2625775327359,
+                            "y": 369.1176470588234
+                        },
+                        {
+                            "x": 659.2625775327359,
+                            "y": 394.78860294117646
+                        },
+                        {
+                            "x": 633.6802205375602,
+                            "y": 394.78860294117646
+                        }
+                    ]
+                },
+                {
+                    "id": "FafBQvmDc",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "yellow"
+                    ],
+                    "boundingBox": {
+                        "height": 22.435661764705763,
+                        "width": 22.639558924879594,
+                        "left": 528.7043418332182,
+                        "top": 371.4705882352941
+                    },
+                    "points": [
+                        {
+                            "x": 528.7043418332182,
+                            "y": 371.4705882352941
+                        },
+                        {
+                            "x": 551.3439007580979,
+                            "y": 371.4705882352941
+                        },
+                        {
+                            "x": 551.3439007580979,
+                            "y": 393.9062499999999
+                        },
+                        {
+                            "x": 528.7043418332182,
+                            "y": 393.9062499999999
+                        }
+                    ]
+                },
+                {
+                    "id": "s4_2OGNPe",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "red"
+                    ],
+                    "boundingBox": {
+                        "height": 34.411764705882355,
+                        "width": 40.578911095796,
+                        "left": 957.1330117160579,
+                        "top": 485.3768382352941
+                    },
+                    "points": [
+                        {
+                            "x": 957.1330117160579,
+                            "y": 485.3768382352941
+                        },
+                        {
+                            "x": 997.7119228118539,
+                            "y": 485.3768382352941
+                        },
+                        {
+                            "x": 997.7119228118539,
+                            "y": 519.7886029411765
+                        },
+                        {
+                            "x": 957.1330117160579,
+                            "y": 519.7886029411765
+                        }
+                    ]
+                },
+                {
+                    "id": "sV_7KWtF0",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "black"
+                    ],
+                    "boundingBox": {
+                        "height": 38.02389705882343,
+                        "width": 37.050310130944176,
+                        "left": 1152.9703652653343,
+                        "top": 517.9411764705882
+                    },
+                    "points": [
+                        {
+                            "x": 1152.9703652653343,
+                            "y": 517.9411764705882
+                        },
+                        {
+                            "x": 1190.0206753962784,
+                            "y": 517.9411764705882
+                        },
+                        {
+                            "x": 1190.0206753962784,
+                            "y": 555.9650735294116
+                        },
+                        {
+                            "x": 1152.9703652653343,
+                            "y": 555.9650735294116
+                        }
+                    ]
+                }
+            ],
             "version": "2.2.0"
         },
         "e9fa38805cc28114228264f44e874a62": {
@@ -796,11 +2322,198 @@
                     "width": 1280,
                     "height": 720
                 },
-                "state": 1,
+                "state": 2,
                 "type": 1,
                 "predicted": true
             },
-            "regions": [],
+            "regions": [
+                {
+                    "id": "v0v_gkHF-",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "blue"
+                    ],
+                    "boundingBox": {
+                        "height": 31.764705882352942,
+                        "width": 29.993108201240524,
+                        "left": 766.5885596140592,
+                        "top": 398.02389705882354
+                    },
+                    "points": [
+                        {
+                            "x": 766.5885596140592,
+                            "y": 398.02389705882354
+                        },
+                        {
+                            "x": 796.5816678152999,
+                            "y": 398.02389705882354
+                        },
+                        {
+                            "x": 796.5816678152999,
+                            "y": 429.78860294117646
+                        },
+                        {
+                            "x": 766.5885596140592,
+                            "y": 429.78860294117646
+                        }
+                    ]
+                },
+                {
+                    "id": "-0uKSdV69",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "green"
+                    ],
+                    "boundingBox": {
+                        "height": 23.823529411764707,
+                        "width": 25.58235699517574,
+                        "left": 761.2956581667815,
+                        "top": 359.20036764705884
+                    },
+                    "points": [
+                        {
+                            "x": 761.2956581667815,
+                            "y": 359.20036764705884
+                        },
+                        {
+                            "x": 786.8780151619573,
+                            "y": 359.20036764705884
+                        },
+                        {
+                            "x": 786.8780151619573,
+                            "y": 383.02389705882354
+                        },
+                        {
+                            "x": 761.2956581667815,
+                            "y": 383.02389705882354
+                        }
+                    ]
+                },
+                {
+                    "id": "tekQOOO-L",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "brown"
+                    ],
+                    "boundingBox": {
+                        "height": 22.058823529411764,
+                        "width": 24.700206753962785,
+                        "left": 627.2088215024121,
+                        "top": 363.61213235294116
+                    },
+                    "points": [
+                        {
+                            "x": 627.2088215024121,
+                            "y": 363.61213235294116
+                        },
+                        {
+                            "x": 651.9090282563749,
+                            "y": 363.61213235294116
+                        },
+                        {
+                            "x": 651.9090282563749,
+                            "y": 385.6709558823529
+                        },
+                        {
+                            "x": 627.2088215024121,
+                            "y": 385.6709558823529
+                        }
+                    ]
+                },
+                {
+                    "id": "MiTHNKBe6",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "yellow"
+                    ],
+                    "boundingBox": {
+                        "height": 21.176470588235293,
+                        "width": 25.58235699517574,
+                        "left": 522.2329427980703,
+                        "top": 362.7297794117647
+                    },
+                    "points": [
+                        {
+                            "x": 522.2329427980703,
+                            "y": 362.7297794117647
+                        },
+                        {
+                            "x": 547.815299793246,
+                            "y": 362.7297794117647
+                        },
+                        {
+                            "x": 547.815299793246,
+                            "y": 383.90625
+                        },
+                        {
+                            "x": 522.2329427980703,
+                            "y": 383.90625
+                        }
+                    ]
+                },
+                {
+                    "id": "yMXlyJrJD",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "red"
+                    ],
+                    "boundingBox": {
+                        "height": 38.9062499999999,
+                        "width": 40.578911095796,
+                        "left": 952.7222605099931,
+                        "top": 475.5882352941176
+                    },
+                    "points": [
+                        {
+                            "x": 952.7222605099931,
+                            "y": 475.5882352941176
+                        },
+                        {
+                            "x": 993.3011716057891,
+                            "y": 475.5882352941176
+                        },
+                        {
+                            "x": 993.3011716057891,
+                            "y": 514.4944852941176
+                        },
+                        {
+                            "x": 952.7222605099931,
+                            "y": 514.4944852941176
+                        }
+                    ]
+                },
+                {
+                    "id": "z7nOQtCaU",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "black"
+                    ],
+                    "boundingBox": {
+                        "height": 42.435661764705884,
+                        "width": 39.69676085458305,
+                        "left": 1147.6774638180566,
+                        "top": 506.4705882352941
+                    },
+                    "points": [
+                        {
+                            "x": 1147.6774638180566,
+                            "y": 506.4705882352941
+                        },
+                        {
+                            "x": 1187.3742246726397,
+                            "y": 506.4705882352941
+                        },
+                        {
+                            "x": 1187.3742246726397,
+                            "y": 548.90625
+                        },
+                        {
+                            "x": 1147.6774638180566,
+                            "y": 548.90625
+                        }
+                    ]
+                }
+            ],
             "version": "2.2.0"
         },
         "e94a667cd99d0eae07bfa2be833b1acf": {
@@ -813,11 +2526,229 @@
                     "width": 1280,
                     "height": 720
                 },
-                "state": 1,
+                "state": 2,
                 "type": 1,
                 "predicted": true
             },
-            "regions": [],
+            "regions": [
+                {
+                    "id": "LJ2ZpzEFL",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "white"
+                    ],
+                    "boundingBox": {
+                        "height": 35.294117647058826,
+                        "width": 40.578911095796,
+                        "left": 388.1461061337009,
+                        "top": 426.25919117647055
+                    },
+                    "points": [
+                        {
+                            "x": 388.1461061337009,
+                            "y": 426.25919117647055
+                        },
+                        {
+                            "x": 428.7250172294969,
+                            "y": 426.25919117647055
+                        },
+                        {
+                            "x": 428.7250172294969,
+                            "y": 461.5533088235294
+                        },
+                        {
+                            "x": 388.1461061337009,
+                            "y": 461.5533088235294
+                        }
+                    ]
+                },
+                {
+                    "id": "ovIVHVz5d",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "blue"
+                    ],
+                    "boundingBox": {
+                        "height": 30.88235294117647,
+                        "width": 30.875258442453482,
+                        "left": 765.7064093728463,
+                        "top": 398.90625
+                    },
+                    "points": [
+                        {
+                            "x": 765.7064093728463,
+                            "y": 398.90625
+                        },
+                        {
+                            "x": 796.5816678152999,
+                            "y": 398.90625
+                        },
+                        {
+                            "x": 796.5816678152999,
+                            "y": 429.78860294117646
+                        },
+                        {
+                            "x": 765.7064093728463,
+                            "y": 429.78860294117646
+                        }
+                    ]
+                },
+                {
+                    "id": "P6SnFh2ZD",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "green"
+                    ],
+                    "boundingBox": {
+                        "height": 20.294117647058822,
+                        "width": 23.818056512749827,
+                        "left": 763.9421088904204,
+                        "top": 362.7297794117647
+                    },
+                    "points": [
+                        {
+                            "x": 763.9421088904204,
+                            "y": 362.7297794117647
+                        },
+                        {
+                            "x": 787.7601654031703,
+                            "y": 362.7297794117647
+                        },
+                        {
+                            "x": 787.7601654031703,
+                            "y": 383.02389705882354
+                        },
+                        {
+                            "x": 763.9421088904204,
+                            "y": 383.02389705882354
+                        }
+                    ]
+                },
+                {
+                    "id": "Wr61OuIyJ",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "brown"
+                    ],
+                    "boundingBox": {
+                        "height": 19.41176470588235,
+                        "width": 24.700206753962785,
+                        "left": 628.0909717436251,
+                        "top": 364.4944852941176
+                    },
+                    "points": [
+                        {
+                            "x": 628.0909717436251,
+                            "y": 364.4944852941176
+                        },
+                        {
+                            "x": 652.7911784975879,
+                            "y": 364.4944852941176
+                        },
+                        {
+                            "x": 652.7911784975879,
+                            "y": 383.90625
+                        },
+                        {
+                            "x": 628.0909717436251,
+                            "y": 383.90625
+                        }
+                    ]
+                },
+                {
+                    "id": "s0uIgRQRU",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "red"
+                    ],
+                    "boundingBox": {
+                        "height": 36.17647058823529,
+                        "width": 44.98966230186079,
+                        "left": 950.0758097863543,
+                        "top": 478.3180147058823
+                    },
+                    "points": [
+                        {
+                            "x": 950.0758097863543,
+                            "y": 478.3180147058823
+                        },
+                        {
+                            "x": 995.0654720882151,
+                            "y": 478.3180147058823
+                        },
+                        {
+                            "x": 995.0654720882151,
+                            "y": 514.4944852941177
+                        },
+                        {
+                            "x": 950.0758097863543,
+                            "y": 514.4944852941177
+                        }
+                    ]
+                },
+                {
+                    "id": "LDpImXqG_",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "black"
+                    ],
+                    "boundingBox": {
+                        "height": 47.64705882352941,
+                        "width": 49.40041350792557,
+                        "left": 1142.384562370779,
+                        "top": 503.02389705882354
+                    },
+                    "points": [
+                        {
+                            "x": 1142.384562370779,
+                            "y": 503.02389705882354
+                        },
+                        {
+                            "x": 1191.7849758787045,
+                            "y": 503.02389705882354
+                        },
+                        {
+                            "x": 1191.7849758787045,
+                            "y": 550.6709558823529
+                        },
+                        {
+                            "x": 1142.384562370779,
+                            "y": 550.6709558823529
+                        }
+                    ]
+                },
+                {
+                    "id": "ryDta438T",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "red"
+                    ],
+                    "boundingBox": {
+                        "height": 42.35294117647059,
+                        "width": 41.46106133700896,
+                        "left": 1041.8194348725017,
+                        "top": 462.43566176470586
+                    },
+                    "points": [
+                        {
+                            "x": 1041.8194348725017,
+                            "y": 462.43566176470586
+                        },
+                        {
+                            "x": 1083.2804962095106,
+                            "y": 462.43566176470586
+                        },
+                        {
+                            "x": 1083.2804962095106,
+                            "y": 504.78860294117646
+                        },
+                        {
+                            "x": 1041.8194348725017,
+                            "y": 504.78860294117646
+                        }
+                    ]
+                }
+            ],
             "version": "2.2.0"
         },
         "a39c5aee20034bdd1d3639eda29c5525": {
