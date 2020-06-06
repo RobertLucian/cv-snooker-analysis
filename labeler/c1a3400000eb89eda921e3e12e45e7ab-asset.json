@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c1a3400000eb89eda921e3e12e45e7ab",
+        "name": "10.jpg",
+        "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/10.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "FaLtyoHxP",
+            "type": "RECTANGLE",
+            "tags": [
+                "red"
+            ],
+            "boundingBox": {
+                "height": 45.08272058823529,
+                "width": 46.7539627842867,
+                "left": 79.3935217091661,
+                "top": 506.4705882352941
+            },
+            "points": [
+                {
+                    "x": 79.3935217091661,
+                    "y": 506.4705882352941
+                },
+                {
+                    "x": 126.1474844934528,
+                    "y": 506.4705882352941
+                },
+                {
+                    "x": 126.1474844934528,
+                    "y": 551.5533088235294
+                },
+                {
+                    "x": 79.3935217091661,
+                    "y": 551.5533088235294
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a39c5aee20034bdd1d3639eda29c5525",
+        "name": "100.jpg",
+        "path": "file:C:/Users/andre/Desktop/MasterAI/Sem2/CV/Proiect%202/cv-snooker-analysis/training_data/100.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "de8aV_n2Kk",
+            "type": "RECTANGLE",
+            "tags": [
+                "Unknown"
+            ],
+            "boundingBox": {
+                "left": 978.714599609375,
+                "top": 162.84672617912292,
+                "width": 141.10488891601562,
+                "height": 186.52241349220276
+            },
+            "points": [
+                {
+                    "x": 978.714599609375,
+                    "y": 162.84672617912292
+                },
+                {
+                    "x": 1119.8194885253906,
+                    "y": 162.84672617912292
+                },
+                {
+                    "x": 1119.8194885253906,
+                    "y": 349.3691396713257
+                },
+                {
+                    "x": 978.714599609375,
+                    "y": 349.3691396713257
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
