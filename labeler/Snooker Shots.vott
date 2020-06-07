@@ -5,7 +5,7 @@
         "name": "Snooker Training Data",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMWQ5ZjIzZmNkN2Y5YzZhZjc2ZGUyNDVhNDdiNGZmNGQ5NTY0MDc2ZjE5OTFhYzJkZjRkNWRkYWM1MTQ3MzYyODU3ZDMzNzRhNTlhNmQwNjY3MTM1Zjg2NDE2MTRjYTI3MDNjZGUwZTUzMmRkM2Y3ZjE3MzIzMTlkMTc3MWJlMWQxNzQ3MGRhMzhlNTIzOTcyMTczZjhhZjBkY2JmN2I0YzllYzI3ZTNiNDVkNzI4ZDZiZDNhNzg0MjFmYjczMzc4IiwiaXYiOiI1ZThhZWI4MGJjYjk4YWFjNDc4MDVhODY0ZDQxMjJjNDY2ODVhMjM4YWM3YjdlMDMifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGMzNTVlZGQ5YzE4OWI2YzdhYTczMjRlZjM4OWJmMDc2YWExZDcxNDY5Njg4NGVmMjVlNGFiM2NjZTk2MjY0MGEyMThlY2M2M2EzYzY1N2U0OTUzNDQ4Yjc3ODU3YTlhZGE1ZjNkMzgwNWY5NjMzMmQ5MjAzYmE5NTM1NTQ1ZmZmNzZiYmEyNTQzZGVmMDczNjg0MGI4NjhiMWQyNzlhOWRiODAzNDIwNmUxNTJkNDIzZDMzNzdmN2EwZWJjOWQ3IiwiaXYiOiJjNzU0ZmQ5N2E4M2NlODI2M2JlZDJlMzZjZTRiNmFkOWNlY2IzNTFkYmU4ZGM5ZjMifQ=="
         },
         "id": "2Wl2z6aU_"
     },
@@ -13,7 +13,7 @@
         "name": "Snooker Output",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDcwYjU5NTI0NDIwZTg3YzUxOGYzY2ZlNGY5YmJiOWEzN2U1MDU2MTU5ZGNjMDJlMTc0ZDcxZjBiOWNiMjE1NzAwODJiOTJiOThjMzVkNTZkMzY4ZTY1MjliODVhZmZiZWU0MmQxMGRiYTBmMWEyYTIxMThlYTI2YjhlNTlmYzM0NjA0YjViYjk0NWZhZGNlZjNiZjQ1MjcwNTBmNWQxMzFiZGUzMjYwYjJhZGZjOTUwOGY2Nzc2YTNlMzYyZGIwIiwiaXYiOiJiMTkzOTM0MzJlM2VhOGUzY2I0NWEyYWY0OGM4NTU0MzRiODk1MmMxYTY4Mzc0OTkifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiM2M4NDk5MjI4MzRiYjUyYzVkYjY4MmE3YzMwOGVlYjQ5NzkxNGI4M2E1YTA3Nzg1N2I0YzY5MWMzMWU2M2M1N2U5Y2E5MTM2YjkyNTY2Y2Y4YTk1ZGMwYjYyNmQ2MzFmMzhmZTA0ZjcyZmQ4ZDRmMTJmYzRmMTNjZDIwYWI0NzE4ZGExMDEzMmIxOGI2MWJhNGM1ZTgwZjM2YTViZGMzNTg5ODIzYjY2ZjM2MzQ0NjY1NzI3MmM3OTNkNTM3MWQyIiwiaXYiOiI5MmQ4ZjIwYmFlMGE3ZTRjNTA5MTZmNTFkMTYyZDI0NmJmZmY2ZDFkM2E4YmJjMzAifQ=="
         },
         "id": "JNHMkudTD"
     },
@@ -22,36 +22,16 @@
     },
     "tags": [
         {
-            "name": "black",
+            "name": "ball",
             "color": "#808000"
         },
         {
-            "name": "blue",
-            "color": "#00FF00"
+            "name": "Unknown",
+            "color": "#e81123"
         },
         {
-            "name": "brown",
-            "color": "#008000"
-        },
-        {
-            "name": "green",
-            "color": "#00FFFF"
-        },
-        {
-            "name": "pink",
-            "color": "#008080"
-        },
-        {
-            "name": "red",
-            "color": "#0000FF"
-        },
-        {
-            "name": "white",
-            "color": "#000080"
-        },
-        {
-            "name": "yellow",
-            "color": "#FF00FF"
+            "name": "sink",
+            "color": "#6917aa"
         }
     ],
     "id": "T7diMQ7W1",
@@ -63,11 +43,11 @@
     "exportFormat": {
         "providerType": "pascalVOC",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzRiOWRlMDIzNzZiNzRiMDk2YzU0MjdmZTMxNDAzOTFlZDRkZjU0NWE0MzIxNDA1NDgyNmUyODczY2ZlNDE3ZWIyY2M4NWY0YWZlN2MxMjE5MzM5ZTIyYzdjNDRjZmQ5OTIwNjIxOWIyZTFiZDA1Y2YzZjNlMjQ5ZDI3NWM3YTY2M2FjYzZhNjc5YWVjMWMxN2M4ZTkyN2I0ODE2MmNmNCIsIml2IjoiYzgyMjJiOTg0YmZlMWZiMmNkMGI1MDYwYTA5Y2E3MDQzNjdlZjBmMDM4YmU4ZjJmIn0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGVmYzI2NWNmZDhhMGE2OGEyNGRmYTc2M2I5ZmZkMGI0OWYxMDI0NDRjOTkwNjE5NmExZTRkMDAyOGVjNzg5YmVjY2JlYjMyMjM1N2EyOGM3MmVkNDdhZTMxYTMzMTI2NTZmYzVkN2EyNDAzMDZhNDEwODYzMjNjYzExZTU0MjQ5ODA3MDhhOWVmNDYwMzg3NTZkOTJlOGI2NzRjY2ZlNyIsIml2IjoiOTQwMjhlMGFiYjI4MWMwMjljMGY3OGNiNTA2NWRhNmQ1NTAxNWY3NDU4NmUxNDY4In0="
         }
     },
     "version": "2.2.0",
-    "lastVisitedAssetId": "69ed5a4bf163455745ab9a1d30601977",
+    "lastVisitedAssetId": "2efeacb8222257c83503ffc556fac996",
     "assets": {
         "bfa6a2a8ce05734ad203d4bf14687133": {
             "format": "jpg",
@@ -3017,6 +2997,110 @@
                 "height": 720
             },
             "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "2ef57aa7ea0d9f958c370330b42e2c7c": {
+            "format": "jpg",
+            "id": "2ef57aa7ea0d9f958c370330b42e2c7c",
+            "name": "281.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/281.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1,
+            "predicted": true
+        },
+        "9159ee2a85edf9f7ee85298c8794c942": {
+            "format": "jpg",
+            "id": "9159ee2a85edf9f7ee85298c8794c942",
+            "name": "281611a08d20bb4d3a85f3567aa24951ec53fa35.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/281611a08d20bb4d3a85f3567aa24951ec53fa35.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "525188bd204388ef565e2b261e7e0a51": {
+            "format": "jpg",
+            "id": "525188bd204388ef565e2b261e7e0a51",
+            "name": "282.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/282.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "0669b7db373b63af2ff11e114dc74827": {
+            "format": "jpg",
+            "id": "0669b7db373b63af2ff11e114dc74827",
+            "name": "283.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/283.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "6e64e549e397c91a6bf8742e4a701b8e": {
+            "format": "jpg",
+            "id": "6e64e549e397c91a6bf8742e4a701b8e",
+            "name": "292.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/292.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1,
+            "predicted": true
+        },
+        "faa4b031c0b93bbb76507da8f87a6368": {
+            "format": "jpg",
+            "id": "faa4b031c0b93bbb76507da8f87a6368",
+            "name": "293.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/293.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1,
+            "predicted": true
+        },
+        "9683ff6c0287d08c3550209afd6504b1": {
+            "format": "jpg",
+            "id": "9683ff6c0287d08c3550209afd6504b1",
+            "name": "294.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/294.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1,
+            "predicted": true
+        },
+        "8fe6a5c062f14ee254936b23544a8db9": {
+            "format": "jpg",
+            "id": "8fe6a5c062f14ee254936b23544a8db9",
+            "name": "296.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/296.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
             "type": 1,
             "predicted": true
         }
