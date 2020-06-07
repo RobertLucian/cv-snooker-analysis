@@ -5,7 +5,7 @@
         "name": "Snooker Training Data",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmExNzZhZWRmMTVmMzVhZTE3ZmNkMTMwYjJmNGQxZWI0MTY4N2NiZTdhM2JjYjA4YjBhOTYwZTJkMWQ0MWM4YmYyZTEwN2U5NGJkNmM0OTQ2ZjY1MGRmOTRkMzAyNjVhY2JiZWY1NjM1ODIwYjY5NGMzYzYzOWFhNTNjNTRiZjdlZTBjZmQwMWM4YzE3ZGQyMTMxNTA1NDY5YTExZGI5YWI2MGM1NDhiNTBhNDcwZmVlZDI3MTdiMDcyMTZkZjc0IiwiaXYiOiI2NDYwZDdiYzQ1YTU5NWJjNGM1ODE3ZmI1MDA1YzQwOTQ2NjMwMGE0NjhlMmY5OTgifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMWQ5ZjIzZmNkN2Y5YzZhZjc2ZGUyNDVhNDdiNGZmNGQ5NTY0MDc2ZjE5OTFhYzJkZjRkNWRkYWM1MTQ3MzYyODU3ZDMzNzRhNTlhNmQwNjY3MTM1Zjg2NDE2MTRjYTI3MDNjZGUwZTUzMmRkM2Y3ZjE3MzIzMTlkMTc3MWJlMWQxNzQ3MGRhMzhlNTIzOTcyMTczZjhhZjBkY2JmN2I0YzllYzI3ZTNiNDVkNzI4ZDZiZDNhNzg0MjFmYjczMzc4IiwiaXYiOiI1ZThhZWI4MGJjYjk4YWFjNDc4MDVhODY0ZDQxMjJjNDY2ODVhMjM4YWM3YjdlMDMifQ=="
         },
         "id": "2Wl2z6aU_"
     },
@@ -13,7 +13,7 @@
         "name": "Snooker Output",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDBhNGFhM2Q5ZWFmZjdlOTE4OGYyZTQyMjY4NmYzNmNiYTA0ZTc1MWI2MTM3ZjExNTM1NmE4NThkMDYzMTRlNmEwNWNkMGU5NGM3OGI4ZDgyOTgwNDg1ODI4YWJhYmVlZDc2NGU3YjdhNzRlYThhNzFmMWE0NjJhNTYyNGQ3ZmE4Nzk1OGJiM2MyOWI2NjcwYmY1Nzk5YjZmMzY1ZDBmNmYxODQ5NDYyN2UzNTZmOTk5ZTczMzU1NTViMDE0MDVmIiwiaXYiOiI0ZDA1OWJlM2M4ODg5ZmMyNTAxMzJhY2E2ZDA0YTk0NDliZmZmMDRiYTk3NmJkZWUifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDcwYjU5NTI0NDIwZTg3YzUxOGYzY2ZlNGY5YmJiOWEzN2U1MDU2MTU5ZGNjMDJlMTc0ZDcxZjBiOWNiMjE1NzAwODJiOTJiOThjMzVkNTZkMzY4ZTY1MjliODVhZmZiZWU0MmQxMGRiYTBmMWEyYTIxMThlYTI2YjhlNTlmYzM0NjA0YjViYjk0NWZhZGNlZjNiZjQ1MjcwNTBmNWQxMzFiZGUzMjYwYjJhZGZjOTUwOGY2Nzc2YTNlMzYyZGIwIiwiaXYiOiJiMTkzOTM0MzJlM2VhOGUzY2I0NWEyYWY0OGM4NTU0MzRiODk1MmMxYTY4Mzc0OTkifQ=="
         },
         "id": "JNHMkudTD"
     },
@@ -52,30 +52,6 @@
         {
             "name": "yellow",
             "color": "#FF00FF"
-        },
-        {
-            "name": "baseball glove",
-            "color": "#257ffe"
-        },
-        {
-            "name": "Unknown",
-            "color": "#ddabe9"
-        },
-        {
-            "name": "toaster",
-            "color": "#ff8c00"
-        },
-        {
-            "name": "snowboard",
-            "color": "#386300"
-        },
-        {
-            "name": "sink",
-            "color": "#b40e1b"
-        },
-        {
-            "name": "surfboard",
-            "color": "#68217a"
         }
     ],
     "id": "T7diMQ7W1",
@@ -85,9 +61,9 @@
         "predictTag": true
     },
     "exportFormat": {
-        "providerType": "vottJson",
+        "providerType": "pascalVOC",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTExNWFmMGJlMjFhNDY5ODliOTY0NjYxMGQzMGJkOTUyMzEzNzRjMDAyNzE0NWYyMGVkZjBjNzkwNTM1MTQ2NmUxYTJkYjA3Mzg1MzlkYmI3NzQyMjdlNDFiZmVjYTRhIiwiaXYiOiJhZGU3MmMzOWE4YzdlYjljOGVkZTljZjM0OWEyYTQ0ZDJkNzlmYmViZDNjYzk2MzEifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzRiOWRlMDIzNzZiNzRiMDk2YzU0MjdmZTMxNDAzOTFlZDRkZjU0NWE0MzIxNDA1NDgyNmUyODczY2ZlNDE3ZWIyY2M4NWY0YWZlN2MxMjE5MzM5ZTIyYzdjNDRjZmQ5OTIwNjIxOWIyZTFiZDA1Y2YzZjNlMjQ5ZDI3NWM3YTY2M2FjYzZhNjc5YWVjMWMxN2M4ZTkyN2I0ODE2MmNmNCIsIml2IjoiYzgyMjJiOTg0YmZlMWZiMmNkMGI1MDYwYTA5Y2E3MDQzNjdlZjBmMDM4YmU4ZjJmIn0="
         }
     },
     "version": "2.2.0",
