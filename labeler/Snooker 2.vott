@@ -1,0 +1,116 @@
+{
+    "name": "Snooker 2",
+    "securityToken": "Snooker 2 Token",
+    "sourceConnection": {
+        "name": "Snooker Training Data",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNzZhMWM1ZjA2OGE4ODU5ZmE0MGQ5ZDM4M2E5YzVjZGJlYjlhODRjMzdhZGExODk3ZDViMWY1NDM1YTg5MDNhMzc3YTU2OWZjMDlkM2Q1ODhhZDhhZDQ5MDA4MjE1NWNiYWIzYWQwM2YyODQyNmI2NTg3YmNhYjQyYWMzNWE3MzNmOWIxN2NkOTQ2NmYzYzU2YTE0NjA0ODQ4ODIzMTA2ZGM1MjE0YzFkOTg1NWU0M2VhYzMwYzIwODViMjAyZDk5IiwiaXYiOiJjM2FkMTVjNjVjM2E4MjVjY2Y5ZmYzMTY5ZmI5MDZkOWEyNDVhNmQyNTExOWFlYjYifQ=="
+        },
+        "id": "2Wl2z6aU_"
+    },
+    "targetConnection": {
+        "name": "Snooker Output",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiM2UzZTdjM2QwOWVjMzIwNWVjOTNhNDFmMzE0ZTc3MDU3ZDlkMDQ3Y2Y4YjJlZjY1MzczYmYzNDMzNThhNzFiODRmZTQwM2M0NDIzNDEzZDJiOTYwZTE2ZTY0ZjE4MzFlZjAyYTdmYmZkNDA4ZTYxYjgwYTZhZjhhMzc0OWMwZDg5NGVjN2U1NDc4YjQ3YzMzMDQ4ODJmNDc2MmU1MzEwMGU0OTBkOGE2NGM4NmMxMDcyNzJhM2Y4Zjk1NDBiZGVkIiwiaXYiOiJjZmRjNzE2NDRkZTkyOGI2YWUwZWQ4MDk1ODQyOTc2OTM1NDc2OTQyOWUxMjkxOTIifQ=="
+        },
+        "id": "JNHMkudTD"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "ball",
+            "color": "#800000"
+        },
+        {
+            "name": "blue",
+            "color": "#e81123"
+        },
+        {
+            "name": "red",
+            "color": "#6917aa"
+        },
+        {
+            "name": "pink",
+            "color": "#015cda"
+        },
+        {
+            "name": "black",
+            "color": "#4894fe"
+        },
+        {
+            "name": "yellow",
+            "color": "#6b849c"
+        },
+        {
+            "name": "brown",
+            "color": "#70c400"
+        },
+        {
+            "name": "green",
+            "color": "#f7929a"
+        },
+        {
+            "name": "white",
+            "color": "#257ffe"
+        }
+    ],
+    "id": "jWo85ZULG",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOGZkZWYyOWQyYjgwMDVmZmMzYjg0MzE0NzBhNDM1MzQ5Zjc1N2VjZjUxY2E1YTcxYzkwZjIwOTcxMTVjZGY4M2YxNWZhYzIyMjk4MTk3M2MxNGUzYmJkNWZhNjEzMmIzIiwiaXYiOiI2NjFmZWY3ZDk1ZDdmMzcxMzFlOWZkZWE0M2QxZGM3ZTY0ZWI2ZGFkOTY4ZjMzOWQifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "7742b6a1b5daa050262096d4ddc11de9",
+    "assets": {
+        "c1b56ad8e1efbd9f0c29a10a8e9f0ad1": {
+            "format": "jpg",
+            "id": "c1b56ad8e1efbd9f0c29a10a8e9f0ad1",
+            "name": "0.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/0.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "7a38f9f74625d1e243ea395c9ac5a4c3": {
+            "format": "jpg",
+            "id": "7a38f9f74625d1e243ea395c9ac5a4c3",
+            "name": "10.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/10.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "e7cc1cc9fd1f110c5d3c56e36184d148": {
+            "format": "jpg",
+            "id": "e7cc1cc9fd1f110c5d3c56e36184d148",
+            "name": "105.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/105.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        }
+    }
+}

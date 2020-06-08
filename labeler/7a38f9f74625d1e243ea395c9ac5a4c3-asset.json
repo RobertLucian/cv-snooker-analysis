@@ -296,7 +296,8 @@
             "id": "qKW-npgmB",
             "type": "RECTANGLE",
             "tags": [
-                "brown"
+                "brown",
+                "ball"
             ],
             "boundingBox": {
                 "height": 27.776653464070435,

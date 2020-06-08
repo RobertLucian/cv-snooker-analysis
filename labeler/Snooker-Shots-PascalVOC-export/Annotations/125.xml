@@ -1,0 +1,92 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>125.jpg</filename>
+    <path>Snooker-Shots-PascalVOC-export/Annotations/125.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>blue</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>272.56329537345385</xmin>
+        <ymin>342.0913742762532</ymin>
+        <xmax>306.6641517007612</xmax>
+        <ymax>374.25380338872145</ymax>
+    </bndbox>
+</object><object>
+    <name>white</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>307.63844701474784</xmin>
+        <ymin>417.1370669911961</ymin>
+        <xmax>352.4567376308278</xmax>
+        <ymax>456.1218013860248</ymax>
+    </bndbox>
+</object><object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>749.0009514747859</xmin>
+        <ymin>403.49238206892454</ymin>
+        <xmax>781.1532171741198</xmax>
+        <ymax>440.5279076280933</ymax>
+    </bndbox>
+</object><object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>843.5090836108468</xmin>
+        <ymin>428.832468720257</ymin>
+        <xmax>886.3786720980019</xmax>
+        <ymax>468.7918818904664</ymax>
+    </bndbox>
+</object><object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>782.1275124881065</xmin>
+        <ymin>420.0609174234613</ymin>
+        <xmax>821.0999197193149</xmax>
+        <ymax>460.0202934148953</ymax>
+    </bndbox>
+</object><object>
+    <name>black</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>990.6299060418648</xmin>
+        <ymin>441.50251204592325</ymin>
+        <xmax>1037.396824452902</xmax>
+        <ymax>481.461962394908</ymax>
+    </bndbox>
+</object><object>
+    <name>green</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>76.72692673644148</xmin>
+        <ymin>293.3604098092481</ymin>
+        <xmax>107.90485995480495</xmax>
+        <ymax>320.64974247501584</ymax>
+    </bndbox>
+</object>
+</annotation>
