@@ -5,7 +5,7 @@
         "name": "Snooker Training Data",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDg3NGE4NjI3ZTk1MDNlOGFlMDdmNGNhMDVkY2EzOGJhNDI4YTIzYzQxMmQ2NjNhZTg2MGIxNzM4MTA5YzdlOWU1ZTEwNmNkMDE0MWY4NTRmNDk1ODRhZjU5OTk0ZGQxNTQyNTVjYzVhNGQ4NGI2NTUyNzc2MTdjMjA0YmY1ZmYwYWY4MjM2MmQzYmMwYzhlYjcyMTJjOGRjNjdkZDExNDI5MDBkYzZjZmZkZTQxYzM1NTVkODRhZmY3YWM5OWM3IiwiaXYiOiI4ZmY4ZjI4NzY3ZmMwNmYyNGUyYmFhN2Y1Y2M2ZWFlMWI5NmVlY2ZjNTIzMmY1NzAifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYmEwZWUzMjg0NWNiNDA3Yzk2MWRmY2QwMGUwZDBiZjVmZWI3NTFkMDFiNDRiMDIyMjNlNGVkOTE0ODlhYWRiZjQ5OTZhMDdmOTg1MmNmZjkwMGNiMTc2YTNjNTkxZWJhYzE1M2EwYjNhMmYyZmJlYTNiNDQzMDNlNGExYWIwZDM3ZjgzZGJiZWQ4Yjk3YmNlM2QwNzM4YjBmZWM4ODI5NTFlMDlkODE1NjNmY2Q4YzlhZDNmMmFhNGM2NzMyMTJkIiwiaXYiOiI5NTRmYTUyNDY2NGQ1YTc5NGY1ZDBkMzU1NjQ2NTkyNjYwNTgyODViNDczYjJmMmMifQ=="
         },
         "id": "2Wl2z6aU_"
     },
@@ -13,7 +13,7 @@
         "name": "Snooker Output",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYTM3NjIyODU3MGE0ODdlYzNkNjgyMjA1NGQ5Y2I0Y2YyMTRiZmE0NGFjYjQ4YjZmZGZkNTFjZmJkYjUxOTRmYmQ3OTk3Y2RmMDljZTUzZjUzY2MwYWZmYjRhNzVjODExNDljZDAzNGY2MTViNTA3MDIyZmY1NWE5MWZlYzE3ODhjOGVjMzBhMThkYzNmYzJiMmYzYTI2OGYxMzhiNDhiM2U1MGJjMDA0OWI3YzhkNTIwMTA3NGZiYTc3NmQxNzBlIiwiaXYiOiIzYTQzY2MyYWJhM2NhZjM2YmFhMmU2NzIzZWNhNmUxMWI0YTFjYmMyNmI4MWRkZTcifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiM2E0ZTQyYjhiYzc2MzIxMjFjOWY2OTY4NzQ0NDNmM2RmZWJkMTJhOTBkNTI3MzVkZWRlM2EzMTgxZDJmODE1YzJlOWE2MTMxZmE1NzFlMzZmZDcyYWE0NTExNDQxNGIxODAyNzA5MThkMjMyODJmMjU2YzViMWMzMmQyMzM3MTc2NjBhZDc4OGFmMjFhOWIxMjZiMDZiZWI1ZjY3MTgyY2NiNGJkYzNhNGQ3MTA1Y2ZhZTc1YWYyZjE1ZjMwNmRhIiwiaXYiOiJiYmNmZTFiM2NjZmI2MzEzYzZhYWVhNDYzMDk3MzE4NTMwOWZmN2YzYmRhZDhkZDYifQ=="
         },
         "id": "JNHMkudTD"
     },
@@ -35,11 +35,11 @@
     "exportFormat": {
         "providerType": "pascalVOC",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYTU3MjVmNTE0Y2E0Y2YwMjRkNjUzMGU5M2VmZWNiNDRhNzJiODlmNDEyNWMyMjAyM2VkZDExMDFjNTgwYmYzNzNjZjZkZjNmNjY3Yzk1MmE4NWYxYmRkOGVmMGQyOGE1ZmM2MzhiZDIwNDBmZTBmMWE3YTUxMzEwNzlkMDMyYzBjZmQ1NTMzM2NmYzgzOTg4NzkyNTQyMTcyNmY4ZGU2ZSIsIml2IjoiYWVlMzI4YjY1NjI0NzY5ZjQzZGNjMjc4YWNmMTkyZTRjZTlmMzhhZGMyYTdkYjQ1In0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiM2ZlMDJhNDQxMzI0M2I3M2M2ZWI3MTg3ODBkMTRkMTkyNDA2NzJlMzA1NDU3ZjYzNjE4OTgxMzc5OGJhNWExZTQ4MjlmYWZiMDRiYzgwNDQ1MTFiMTU1OGFkNjc3NDBlZDdiYzg4ZGViMzg5ZDUxYjc5OGY3ZGM5MjkzOWZjZTM0N2UzMDVkM2Y2N2NiZTE5NzBjODM3N2MyZjkwMTBkZiIsIml2IjoiM2M1NDdiMjRiMWNmNTU1MmM3YjZkNjc4NzA5NzYwODhiODk3YzczYTVkMGI0ZDBiIn0="
         }
     },
     "version": "2.2.0",
-    "lastVisitedAssetId": "90e407ebb870c01d58f386ba39868f51",
+    "lastVisitedAssetId": "4105521723a4be2a489ea72b78d68750",
     "assets": {
         "c1b56ad8e1efbd9f0c29a10a8e9f0ad1": {
             "format": "jpg",
@@ -6973,6 +6973,1495 @@
             "id": "90e407ebb870c01d58f386ba39868f51",
             "name": "653.jpg",
             "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/653.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9e64d5b5ad5d6ee38c09963202e92b1c": {
+            "format": "jpg",
+            "id": "9e64d5b5ad5d6ee38c09963202e92b1c",
+            "name": "654.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/654.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e7163ab32dcc0c336d2d8495cd83394f": {
+            "format": "jpg",
+            "id": "e7163ab32dcc0c336d2d8495cd83394f",
+            "name": "655.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/655.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fdc3dffb0f09216f23e6f66826087f43": {
+            "format": "jpg",
+            "id": "fdc3dffb0f09216f23e6f66826087f43",
+            "name": "656.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/656.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e105c9b9e213a44b2421d885d3c48209": {
+            "format": "jpg",
+            "id": "e105c9b9e213a44b2421d885d3c48209",
+            "name": "657.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/657.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e5bb15b1acf62f2aed12c5d07ed0e4ce": {
+            "format": "jpg",
+            "id": "e5bb15b1acf62f2aed12c5d07ed0e4ce",
+            "name": "658.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/658.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "09cfdd6b3d89f4f958450ac17089e327": {
+            "format": "jpg",
+            "id": "09cfdd6b3d89f4f958450ac17089e327",
+            "name": "659.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/659.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "046ac39d85d81d9174bcded153fd2df0": {
+            "format": "jpg",
+            "id": "046ac39d85d81d9174bcded153fd2df0",
+            "name": "66.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/66.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "56a4ed41d2d921e946755f04d107c805": {
+            "format": "jpg",
+            "id": "56a4ed41d2d921e946755f04d107c805",
+            "name": "660.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/660.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3715a518cc2fcca96963e1f1e7b0a953": {
+            "format": "jpg",
+            "id": "3715a518cc2fcca96963e1f1e7b0a953",
+            "name": "661.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/661.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9b485e771a0dfe3ba2cff7e8b684d493": {
+            "format": "jpg",
+            "id": "9b485e771a0dfe3ba2cff7e8b684d493",
+            "name": "662.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/662.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dae0bc48dad024711a6d51f1f9c87556": {
+            "format": "jpg",
+            "id": "dae0bc48dad024711a6d51f1f9c87556",
+            "name": "663.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/663.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d993877b57e7a71c865c301871eee539": {
+            "format": "jpg",
+            "id": "d993877b57e7a71c865c301871eee539",
+            "name": "664.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/664.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46ca8c241461f848daf3443c19609fb1": {
+            "format": "jpg",
+            "id": "46ca8c241461f848daf3443c19609fb1",
+            "name": "665.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/665.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "75aa7863afb6cbdbf0721a2328f01749": {
+            "format": "jpg",
+            "id": "75aa7863afb6cbdbf0721a2328f01749",
+            "name": "666.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/666.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "825c8031e92b8ad81d4bcae06e60f6c5": {
+            "format": "jpg",
+            "id": "825c8031e92b8ad81d4bcae06e60f6c5",
+            "name": "667.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/667.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "20dbaeb854fd3307a3616b34de6e2820": {
+            "format": "jpg",
+            "id": "20dbaeb854fd3307a3616b34de6e2820",
+            "name": "668.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/668.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0318cf78ff43602e91df3292772f569": {
+            "format": "jpg",
+            "id": "d0318cf78ff43602e91df3292772f569",
+            "name": "67.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/67.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "068894b36d64218ac879b705471f8850": {
+            "format": "jpg",
+            "id": "068894b36d64218ac879b705471f8850",
+            "name": "670.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/670.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e8f3277384128c27fba18abbb8eb0360": {
+            "format": "jpg",
+            "id": "e8f3277384128c27fba18abbb8eb0360",
+            "name": "671.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/671.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7b1fb5699c759fd43a2f9871728d5c72": {
+            "format": "jpg",
+            "id": "7b1fb5699c759fd43a2f9871728d5c72",
+            "name": "672.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/672.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "acd0940fc02fc39cfdcd7baa794fbf7b": {
+            "format": "jpg",
+            "id": "acd0940fc02fc39cfdcd7baa794fbf7b",
+            "name": "673.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/673.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c3dbc6f0bbf3d48d9460efb4c8d905c4": {
+            "format": "jpg",
+            "id": "c3dbc6f0bbf3d48d9460efb4c8d905c4",
+            "name": "674.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/674.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b3e5309ee8dafe909174ab417f0af791": {
+            "format": "jpg",
+            "id": "b3e5309ee8dafe909174ab417f0af791",
+            "name": "675.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/675.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7d03fe9c7957838518f1fcab11d273a3": {
+            "format": "jpg",
+            "id": "7d03fe9c7957838518f1fcab11d273a3",
+            "name": "676.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/676.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a8f73d35f2eee5150339ac60605a4e11": {
+            "format": "jpg",
+            "id": "a8f73d35f2eee5150339ac60605a4e11",
+            "name": "677.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/677.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "37a75491641b07afff8878fa484ed3ff": {
+            "format": "jpg",
+            "id": "37a75491641b07afff8878fa484ed3ff",
+            "name": "678.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/678.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52270fdd85166fc7d323028138769142": {
+            "format": "jpg",
+            "id": "52270fdd85166fc7d323028138769142",
+            "name": "679.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/679.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3bdb52f7d9422bb109935a8d65a1d7f1": {
+            "format": "jpg",
+            "id": "3bdb52f7d9422bb109935a8d65a1d7f1",
+            "name": "68.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/68.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "92cfbc0f2273966bd5e06063346bb021": {
+            "format": "jpg",
+            "id": "92cfbc0f2273966bd5e06063346bb021",
+            "name": "680.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/680.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8854c97c780035973a7fa3c9075dc303": {
+            "format": "jpg",
+            "id": "8854c97c780035973a7fa3c9075dc303",
+            "name": "681.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/681.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b9b1a881c10c5e43762bd36025f5999f": {
+            "format": "jpg",
+            "id": "b9b1a881c10c5e43762bd36025f5999f",
+            "name": "682.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/682.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eeb0a8525450c9edf2c65518d3ca8288": {
+            "format": "jpg",
+            "id": "eeb0a8525450c9edf2c65518d3ca8288",
+            "name": "683.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/683.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3bdb18f5a58c50b7ab981382a709195e": {
+            "format": "jpg",
+            "id": "3bdb18f5a58c50b7ab981382a709195e",
+            "name": "684.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/684.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a3010dc09a6ef7272b2c6e7148ebcd3f": {
+            "format": "jpg",
+            "id": "a3010dc09a6ef7272b2c6e7148ebcd3f",
+            "name": "685.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/685.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69e61f4a34fa95a73be18d2f6c7aa83c": {
+            "format": "jpg",
+            "id": "69e61f4a34fa95a73be18d2f6c7aa83c",
+            "name": "686.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/686.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "21492acf2899863d0736744f892e8e2b": {
+            "format": "jpg",
+            "id": "21492acf2899863d0736744f892e8e2b",
+            "name": "687.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/687.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c701f87110896610e6867457f68e0a0a": {
+            "format": "jpg",
+            "id": "c701f87110896610e6867457f68e0a0a",
+            "name": "688.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/688.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d1077211ebd6a8738076b4ba53578c50": {
+            "format": "jpg",
+            "id": "d1077211ebd6a8738076b4ba53578c50",
+            "name": "689.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/689.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "87cecec6c1cd74ba3970b63c08f7a62a": {
+            "format": "jpg",
+            "id": "87cecec6c1cd74ba3970b63c08f7a62a",
+            "name": "69.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/69.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c957a11f92aff14b27de61171f5125e9": {
+            "format": "jpg",
+            "id": "c957a11f92aff14b27de61171f5125e9",
+            "name": "690.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/690.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4d7a025bf654ccd5b5873786b48b96f": {
+            "format": "jpg",
+            "id": "f4d7a025bf654ccd5b5873786b48b96f",
+            "name": "691.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/691.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e2f294f430c3c7c91aa9021f84a1bbcc": {
+            "format": "jpg",
+            "id": "e2f294f430c3c7c91aa9021f84a1bbcc",
+            "name": "692.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/692.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aaadfc6a6fdc15537a2e407e0d46943d": {
+            "format": "jpg",
+            "id": "aaadfc6a6fdc15537a2e407e0d46943d",
+            "name": "693.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/693.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d65c123807d4d4d6f74abf6cb013fe8c": {
+            "format": "jpg",
+            "id": "d65c123807d4d4d6f74abf6cb013fe8c",
+            "name": "694.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/694.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "44441ff8db17cd01ee67658f32eb09aa": {
+            "format": "jpg",
+            "id": "44441ff8db17cd01ee67658f32eb09aa",
+            "name": "695.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/695.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4d99c1563916fdef28a22417624e0bff": {
+            "format": "jpg",
+            "id": "4d99c1563916fdef28a22417624e0bff",
+            "name": "696.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/696.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "92e761e7a7e99f57d8152107480550ef": {
+            "format": "jpg",
+            "id": "92e761e7a7e99f57d8152107480550ef",
+            "name": "70.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/70.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e7bf1ddfd9ed8efa333c0fa7a898fbda": {
+            "format": "jpg",
+            "id": "e7bf1ddfd9ed8efa333c0fa7a898fbda",
+            "name": "700.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/700.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "449b9689d39806d10cdf552044015d73": {
+            "format": "jpg",
+            "id": "449b9689d39806d10cdf552044015d73",
+            "name": "701.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/701.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "125e941dc433ec3d42183054b97b9141": {
+            "format": "jpg",
+            "id": "125e941dc433ec3d42183054b97b9141",
+            "name": "702.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/702.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3a7acd35b362826631275118bdbe4a60": {
+            "format": "jpg",
+            "id": "3a7acd35b362826631275118bdbe4a60",
+            "name": "703.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/703.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ce76434dbeb830a49068e63dc66cd9d": {
+            "format": "jpg",
+            "id": "8ce76434dbeb830a49068e63dc66cd9d",
+            "name": "704.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/704.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7df00f4ce6d618fc5534f8600df7bda": {
+            "format": "jpg",
+            "id": "c7df00f4ce6d618fc5534f8600df7bda",
+            "name": "705.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/705.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a542b0168bca658f3395320109fe0f24": {
+            "format": "jpg",
+            "id": "a542b0168bca658f3395320109fe0f24",
+            "name": "706.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/706.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52949d82063908c4088674d6b9b59f86": {
+            "format": "jpg",
+            "id": "52949d82063908c4088674d6b9b59f86",
+            "name": "70fc073bfc0af6cfa6a96882d417f028bc9247d0.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/70fc073bfc0af6cfa6a96882d417f028bc9247d0.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a790a94e6a68f8debe8308e15edc8b9e": {
+            "format": "jpg",
+            "id": "a790a94e6a68f8debe8308e15edc8b9e",
+            "name": "71.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/71.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b1b635adae2a3ac9f01b42eac541bb85": {
+            "format": "jpg",
+            "id": "b1b635adae2a3ac9f01b42eac541bb85",
+            "name": "710.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/710.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "17eb34ad7c9d5d77f94ea2c4638007ef": {
+            "format": "jpg",
+            "id": "17eb34ad7c9d5d77f94ea2c4638007ef",
+            "name": "711.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/711.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f141b75d5fba5f37a564609dae767905": {
+            "format": "jpg",
+            "id": "f141b75d5fba5f37a564609dae767905",
+            "name": "713.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/713.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fd1822b3036125d1279b75eeadb8d6d7": {
+            "format": "jpg",
+            "id": "fd1822b3036125d1279b75eeadb8d6d7",
+            "name": "712.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/712.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a667a076164650c41e0c2d9b96f59d28": {
+            "format": "jpg",
+            "id": "a667a076164650c41e0c2d9b96f59d28",
+            "name": "714.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/714.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ce876c2fd0e48496883443823061178": {
+            "format": "jpg",
+            "id": "9ce876c2fd0e48496883443823061178",
+            "name": "715.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/715.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "70860d72c84aff18a5c1d8a566555fe6": {
+            "format": "jpg",
+            "id": "70860d72c84aff18a5c1d8a566555fe6",
+            "name": "716.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/716.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a542dc9fcd584a5ecafc02db2184ff5e": {
+            "format": "jpg",
+            "id": "a542dc9fcd584a5ecafc02db2184ff5e",
+            "name": "717.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/717.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a5ad1e7f20be00560a4a46d26b931f72": {
+            "format": "jpg",
+            "id": "a5ad1e7f20be00560a4a46d26b931f72",
+            "name": "718.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/718.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "41d2ce118d5d35eafc28fd532da75bf8": {
+            "format": "jpg",
+            "id": "41d2ce118d5d35eafc28fd532da75bf8",
+            "name": "72.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/72.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f484fbddfb97cc93eba627247b1cf591": {
+            "format": "jpg",
+            "id": "f484fbddfb97cc93eba627247b1cf591",
+            "name": "720.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/720.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fb2227ca178105ecb8d693d0c6179b31": {
+            "format": "jpg",
+            "id": "fb2227ca178105ecb8d693d0c6179b31",
+            "name": "721.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/721.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79be5effb654a3e2819fa62d9b8c1ddb": {
+            "format": "jpg",
+            "id": "79be5effb654a3e2819fa62d9b8c1ddb",
+            "name": "722.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/722.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "44f65166e350cf29ca61a71147704f13": {
+            "format": "jpg",
+            "id": "44f65166e350cf29ca61a71147704f13",
+            "name": "723.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/723.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79d98e9178d75be3fd446578febbfe20": {
+            "format": "jpg",
+            "id": "79d98e9178d75be3fd446578febbfe20",
+            "name": "725.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/725.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bc7e60120e1ad8161a88a1a4e03968b1": {
+            "format": "jpg",
+            "id": "bc7e60120e1ad8161a88a1a4e03968b1",
+            "name": "726.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/726.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "448f24eaa7cd15e0e4bfc1824de443d7": {
+            "format": "jpg",
+            "id": "448f24eaa7cd15e0e4bfc1824de443d7",
+            "name": "727.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/727.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c55d742062a2fcda41370d1e541d4cb4": {
+            "format": "jpg",
+            "id": "c55d742062a2fcda41370d1e541d4cb4",
+            "name": "728.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/728.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "05d5f8dd21eb518773bf7b0ad2685a10": {
+            "format": "jpg",
+            "id": "05d5f8dd21eb518773bf7b0ad2685a10",
+            "name": "729.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/729.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eb9db3a65b5ac3961fbad039855698d9": {
+            "format": "jpg",
+            "id": "eb9db3a65b5ac3961fbad039855698d9",
+            "name": "73.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/73.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7570a686e6da572c26aea03fa1e74d2c": {
+            "format": "jpg",
+            "id": "7570a686e6da572c26aea03fa1e74d2c",
+            "name": "730.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/730.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "770006b0c4360142277b5dd33f2118df": {
+            "format": "jpg",
+            "id": "770006b0c4360142277b5dd33f2118df",
+            "name": "731.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/731.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "89228cf7a26941eba77627f5079b7b4c": {
+            "format": "jpg",
+            "id": "89228cf7a26941eba77627f5079b7b4c",
+            "name": "732.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/732.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "adb55491bf13bcd6a202b51962c35b94": {
+            "format": "jpg",
+            "id": "adb55491bf13bcd6a202b51962c35b94",
+            "name": "733.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/733.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "73169f30e99cc4278e08cfa7783b60b1": {
+            "format": "jpg",
+            "id": "73169f30e99cc4278e08cfa7783b60b1",
+            "name": "734.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/734.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db56c016a9a247125871b140c9792a40": {
+            "format": "jpg",
+            "id": "db56c016a9a247125871b140c9792a40",
+            "name": "735.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/735.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "521ce1a4ab70351d905ae1acdfa8a10b": {
+            "format": "jpg",
+            "id": "521ce1a4ab70351d905ae1acdfa8a10b",
+            "name": "736.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/736.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dbef671d060be05ca1fbbdb188496cfd": {
+            "format": "jpg",
+            "id": "dbef671d060be05ca1fbbdb188496cfd",
+            "name": "74.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/74.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "68b17564cd4a72d8e4c25d6819f6ead9": {
+            "format": "jpg",
+            "id": "68b17564cd4a72d8e4c25d6819f6ead9",
+            "name": "740.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/740.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9effa7a3ab6779f59f8067db9b51c2b2": {
+            "format": "jpg",
+            "id": "9effa7a3ab6779f59f8067db9b51c2b2",
+            "name": "741.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/741.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8293a98957ce2624f54d68e99f3f2c7f": {
+            "format": "jpg",
+            "id": "8293a98957ce2624f54d68e99f3f2c7f",
+            "name": "742.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/742.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "916f650a81102c5c79a92e1d76f7e552": {
+            "format": "jpg",
+            "id": "916f650a81102c5c79a92e1d76f7e552",
+            "name": "743.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/743.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c872b92dc9902afb19b6f10d17c3eb8": {
+            "format": "jpg",
+            "id": "5c872b92dc9902afb19b6f10d17c3eb8",
+            "name": "744.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/744.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42ecefecb446d0ca87445b15e0424821": {
+            "format": "jpg",
+            "id": "42ecefecb446d0ca87445b15e0424821",
+            "name": "74450fa7980c48c6fdb0cc8ffefd0fbf58538e11.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/74450fa7980c48c6fdb0cc8ffefd0fbf58538e11.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "80299b882c631212ed9d783cce1167c3": {
+            "format": "jpg",
+            "id": "80299b882c631212ed9d783cce1167c3",
+            "name": "745.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/745.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65bd9d660dafee35df9a1053df18c233": {
+            "format": "jpg",
+            "id": "65bd9d660dafee35df9a1053df18c233",
+            "name": "746.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/746.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7427cc6c7d7c7989262c7142d54b9f16": {
+            "format": "jpg",
+            "id": "7427cc6c7d7c7989262c7142d54b9f16",
+            "name": "747.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/747.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cc750fee429ab2601f924f1c8d811025": {
+            "format": "jpg",
+            "id": "cc750fee429ab2601f924f1c8d811025",
+            "name": "748.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/748.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ce43c5663b16682d9e82b9b0acf5a000": {
+            "format": "jpg",
+            "id": "ce43c5663b16682d9e82b9b0acf5a000",
+            "name": "75.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/75.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b713cb746c1a5d74756382c5475494a6": {
+            "format": "jpg",
+            "id": "b713cb746c1a5d74756382c5475494a6",
+            "name": "76.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/76.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cee4a5a1ec7a624385df8ebc16db065b": {
+            "format": "jpg",
+            "id": "cee4a5a1ec7a624385df8ebc16db065b",
+            "name": "771ec9e70b7abc1d7541840b371b87b998cb6bb0.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/771ec9e70b7abc1d7541840b371b87b998cb6bb0.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5dfba12ba068e873597f16759a040e20": {
+            "format": "jpg",
+            "id": "5dfba12ba068e873597f16759a040e20",
+            "name": "7bd60318957df19b4ac3fe3d26065b9a68684fba.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/7bd60318957df19b4ac3fe3d26065b9a68684fba.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60d9eccc318c35a877092a24e186344f": {
+            "format": "jpg",
+            "id": "60d9eccc318c35a877092a24e186344f",
+            "name": "80.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/80.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dab9de221826e3bb6b0233f93de686f0": {
+            "format": "jpg",
+            "id": "dab9de221826e3bb6b0233f93de686f0",
+            "name": "81.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/81.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b64d8ad7a9e9cb0005ff69178e3b5378": {
+            "format": "jpg",
+            "id": "b64d8ad7a9e9cb0005ff69178e3b5378",
+            "name": "82.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/82.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ea3b36d0454841e892a498171e8c9b77": {
+            "format": "jpg",
+            "id": "ea3b36d0454841e892a498171e8c9b77",
+            "name": "8281ab1d9e965a11512859da4d031f075fab60d6.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/8281ab1d9e965a11512859da4d031f075fab60d6.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c981792debb22786adc1b71e4adaf08": {
+            "format": "jpg",
+            "id": "3c981792debb22786adc1b71e4adaf08",
+            "name": "83.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/83.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4329f42c14fa9f3bcaaa3de8988f1441": {
+            "format": "jpg",
+            "id": "4329f42c14fa9f3bcaaa3de8988f1441",
+            "name": "84.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/84.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c0b265cedb41907ab47b45636d455f3": {
+            "format": "jpg",
+            "id": "3c0b265cedb41907ab47b45636d455f3",
+            "name": "842c5ae1853eb90164137fb32dff590fbfd3f8cf.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/842c5ae1853eb90164137fb32dff590fbfd3f8cf.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5bce477fc87f3d9c58c327d06d0b1536": {
+            "format": "jpg",
+            "id": "5bce477fc87f3d9c58c327d06d0b1536",
+            "name": "85.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/85.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfb62f9fcddce3ae446ebf55db49ae21": {
+            "format": "jpg",
+            "id": "cfb62f9fcddce3ae446ebf55db49ae21",
+            "name": "86.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/86.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2c45ae2321bcaf2b71329d27a676354e": {
+            "format": "jpg",
+            "id": "2c45ae2321bcaf2b71329d27a676354e",
+            "name": "87.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/87.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a44874a880ac608b6891cfc57c3f04e9": {
+            "format": "jpg",
+            "id": "a44874a880ac608b6891cfc57c3f04e9",
+            "name": "8788512477ba8409032fecf4a09643ff5be8ce0b.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/8788512477ba8409032fecf4a09643ff5be8ce0b.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2c1d6b5c1a1ddaff1044b0cf560ae6f7": {
+            "format": "jpg",
+            "id": "2c1d6b5c1a1ddaff1044b0cf560ae6f7",
+            "name": "88.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/88.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32a8bf62c6b4aa33b40fb334a21d8763": {
+            "format": "jpg",
+            "id": "32a8bf62c6b4aa33b40fb334a21d8763",
+            "name": "8d3dcbde486905c238166bfb28239e061edfcc4b.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/8d3dcbde486905c238166bfb28239e061edfcc4b.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a9d89b03a9e4524c87d5c8f1e76ab986": {
+            "format": "jpg",
+            "id": "a9d89b03a9e4524c87d5c8f1e76ab986",
+            "name": "90.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/90.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "836d26b5ac0129f5d18308cdbb879999": {
+            "format": "jpg",
+            "id": "836d26b5ac0129f5d18308cdbb879999",
+            "name": "90734240a791c38e348c1b0ceb572696b3f55781.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/90734240a791c38e348c1b0ceb572696b3f55781.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3448f12f5dd5ace3677fd658eb59c591": {
+            "format": "jpg",
+            "id": "3448f12f5dd5ace3677fd658eb59c591",
+            "name": "90f992582a67641b86ed418d4c32d7f23aa07484.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/90f992582a67641b86ed418d4c32d7f23aa07484.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c266ff6a4573a26f72003634f676b3c2": {
+            "format": "jpg",
+            "id": "c266ff6a4573a26f72003634f676b3c2",
+            "name": "91.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/91.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69150ae86f1eeb1833ba8ffb34132971": {
+            "format": "jpg",
+            "id": "69150ae86f1eeb1833ba8ffb34132971",
+            "name": "92.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/92.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "04232d7641ced17edf2185a447262989": {
+            "format": "jpg",
+            "id": "04232d7641ced17edf2185a447262989",
+            "name": "93.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/93.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "883553c47a672e10cc33c5578f20a8af": {
+            "format": "jpg",
+            "id": "883553c47a672e10cc33c5578f20a8af",
+            "name": "94.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/94.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7758c72646a007d25524131453b47279": {
+            "format": "jpg",
+            "id": "7758c72646a007d25524131453b47279",
+            "name": "949b6276cbafb4c67f3fcda4e665f219d8f11e93.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/949b6276cbafb4c67f3fcda4e665f219d8f11e93.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "879d15509f07f883d1b9749f637f5e65": {
+            "format": "jpg",
+            "id": "879d15509f07f883d1b9749f637f5e65",
+            "name": "95.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/95.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bac6f0d6c3e65893d0ab05db2baac871": {
+            "format": "jpg",
+            "id": "bac6f0d6c3e65893d0ab05db2baac871",
+            "name": "96.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/96.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fa5218b3b3648c3c137f5cc174435b29": {
+            "format": "jpg",
+            "id": "fa5218b3b3648c3c137f5cc174435b29",
+            "name": "97.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/97.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1456b48ab147f9d39537e56f4569b087": {
+            "format": "jpg",
+            "id": "1456b48ab147f9d39537e56f4569b087",
+            "name": "97aca7bb7de030d318b78c96433faefa3aa95754.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/97aca7bb7de030d318b78c96433faefa3aa95754.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4105521723a4be2a489ea72b78d68750": {
+            "format": "jpg",
+            "id": "4105521723a4be2a489ea72b78d68750",
+            "name": "98.jpg",
+            "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/98.jpg",
             "size": {
                 "width": 1280,
                 "height": 720
