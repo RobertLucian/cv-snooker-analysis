@@ -1,0 +1,147 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>206.jpg</filename>
+    <path>Snooker-2-PascalVOC-export/Annotations/206.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>540.0712423851921</xmin>
+        <ymin>130.2</ymin>
+        <xmax>559.2652442596063</xmax>
+        <ymax>146.51998901367188</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>631.2427512886597</xmin>
+        <ymin>131.15998535156248</ymin>
+        <xmax>645.6382526944705</xmax>
+        <ymax>145.56000366210935</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>722.4142601921274</xmin>
+        <ymin>130.2</ymin>
+        <xmax>738.7291324976569</xmax>
+        <ymax>150.36000366210936</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>629.3233803889409</xmin>
+        <ymin>271.3199890136719</ymin>
+        <xmax>648.5173822633551</xmax>
+        <ymax>292.43999633789065</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>428.7460461574508</xmin>
+        <ymin>404.76000366210934</ymin>
+        <xmax>447.94004803186505</xmax>
+        <ymax>424.91998901367185</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>387.4789128397376</xmin>
+        <ymin>468.11998901367184</ymin>
+        <xmax>409.55204428303654</xmax>
+        <ymax>485.40001831054684</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>582.2980611527647</xmin>
+        <ymin>525.7199890136718</ymin>
+        <xmax>602.4517484770383</xmax>
+        <ymax>544.9199890136719</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>647.5576235941893</xmin>
+        <ymin>515.1600036621094</ymin>
+        <xmax>665.7919400187441</xmax>
+        <ymax>537.2400329589843</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>741.6082620665417</xmin>
+        <ymin>452.76000366210934</ymin>
+        <xmax>765.6007644095595</xmax>
+        <ymax>473.8799743652343</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>895.1602770618556</xmin>
+        <ymin>554.5199890136719</ymin>
+        <xmax>919.1527794048734</xmax>
+        <ymax>583.3199890136718</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>626.4442508200561</xmin>
+        <ymin>464.27997436523435</ymin>
+        <xmax>644.6785672446109</xmax>
+        <ymax>483.47997436523434</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>660.0337541002812</xmin>
+        <ymin>455.64003295898436</ymin>
+        <xmax>678.2680705248359</xmax>
+        <ymax>478.6799743652344</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9159ee2a85edf9f7ee85298c8794c942",
+        "name": "281611a08d20bb4d3a85f3567aa24951ec53fa35.jpg",
+        "path": "file:C:/Users/u721848/Documents/CV/cv-snooker-analysis/training_data/281611a08d20bb4d3a85f3567aa24951ec53fa35.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RSFylaLqj",
+            "type": "RECTANGLE",
+            "tags": [
+                "ball"
+            ],
+            "boundingBox": {
+                "height": 24,
+                "width": 24.952187792877226,
+                "left": 790.5529522024367,
+                "top": 84.11998901367187
+            },
+            "points": [
+                {
+                    "x": 790.5529522024367,
+                    "y": 84.11998901367187
+                },
+                {
+                    "x": 815.5051399953139,
+                    "y": 84.11998901367187
+                },
+                {
+                    "x": 815.5051399953139,
+                    "y": 108.11998901367187
+                },
+                {
+                    "x": 790.5529522024367,
+                    "y": 108.11998901367187
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

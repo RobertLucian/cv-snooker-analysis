@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>5fa1668aa93466b782895150be2f911c861d0b74.jpg</filename>
+    <path>Snooker-2-PascalVOC-export/Annotations/5fa1668aa93466b782895150be2f911c861d0b74.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>494.9653672680412</xmin>
+        <ymin>243.48001098632812</ymin>
+        <xmax>513.1996104732896</xmax>
+        <ymax>258.8399963378906</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>628.363621719775</xmin>
+        <ymin>360.5999816894531</ymin>
+        <xmax>650.436753163074</xmax>
+        <ymax>379.7999816894531</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>716.6560742736644</xmin>
+        <ymin>263.63999633789064</ymin>
+        <xmax>736.8097615979381</xmax>
+        <ymax>281.88001098632816</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>626.4442508200561</xmin>
+        <ymin>457.56000366210935</ymin>
+        <xmax>649.4770677132145</xmax>
+        <ymax>478.67997436523433</ymax>
+    </bndbox>
+</object><object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>806.8678977272726</xmin>
+        <ymin>428.76000366210934</ymin>
+        <xmax>832.7797709700093</xmax>
+        <ymax>452.76000366210934</ymax>
+    </bndbox>
+</object>
+</annotation>

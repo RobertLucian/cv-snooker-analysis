@@ -17,7 +17,8 @@
             "id": "azaa1RmeH",
             "type": "RECTANGLE",
             "tags": [
-                "brown"
+                "brown",
+                "ball"
             ],
             "boundingBox": {
                 "height": 38.01016715577411,
@@ -48,7 +49,8 @@
             "id": "oiEHeP6Rh",
             "type": "RECTANGLE",
             "tags": [
-                "green"
+                "green",
+                "ball"
             ],
             "boundingBox": {
                 "height": 32.89340101522843,
@@ -79,7 +81,8 @@
             "id": "TcEaac0zM",
             "type": "RECTANGLE",
             "tags": [
-                "blue"
+                "blue",
+                "ball"
             ],
             "boundingBox": {
                 "height": 40.934054766814725,
@@ -172,7 +175,8 @@
             "id": "8bDGNs_H2",
             "type": "RECTANGLE",
             "tags": [
-                "pink"
+                "pink",
+                "ball"
             ],
             "boundingBox": {
                 "height": 45.80715121351523,
